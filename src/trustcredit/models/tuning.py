@@ -16,8 +16,7 @@ from sklearn.base import BaseEstimator
 from sklearn.metrics import roc_auc_score, roc_curve
 from sklearn.model_selection import StratifiedKFold
 from sklearn.pipeline import Pipeline
-import optuna
-from optuna.samplers import TPESampler
+# optuna and TPESampler are imported lazily within functions to avoid heavy import-time dependencies.
 
 from trustcredit.features.pipeline import create_pipeline
 
@@ -68,7 +67,7 @@ hyperparam_spaces: Dict[str, Dict[str, Any]] = {
 }
 
 
-def _sample_params(trial: optuna.trial.Trial, param_space: Dict[str, Any]) -> Dict[str, Any]:
+def _sample_params(trial: "optuna.trial.Trial", param_space: Dict[str, Any]) -> Dict[str, Any]:
     """Sample hyperparameters from a search space using an Optuna trial.
 
     Parameters
@@ -97,7 +96,7 @@ def _sample_params(trial: optuna.trial.Trial, param_space: Dict[str, Any]) -> Di
 
 
 def objective(
-    trial: optuna.trial.Trial,
+    trial: "optuna.trial.Trial",
     model_class: BaseEstimator,
     pipeline_params: Dict[str, Any],
     fit_params: Dict[str, Any],
@@ -225,6 +224,9 @@ def optimize_model(
             raise ValueError(f"No default search space for '{name}'. Provide param_space explicitly.")
         param_space = hyperparam_spaces[name]
 
+    import optuna
+    from optuna.samplers import TPESampler
+
     optuna.logging.set_verbosity(optuna.logging.WARNING)
     study = optuna.create_study(direction="maximize", sampler=TPESampler(seed=seed_number))
     study.optimize(
@@ -328,6 +330,9 @@ def optimize_model_fast(
             return roc_auc_score(y_val, y_score)
         y_pred = y_score > ks_threshold(y_val, y_score)
         return score_func(y_val, y_pred, y_score)
+
+    import optuna
+    from optuna.samplers import TPESampler
 
     optuna.logging.set_verbosity(optuna.logging.WARNING)
     study = optuna.create_study(direction="maximize", sampler=TPESampler(seed=seed_number))

@@ -23,17 +23,31 @@ dependencies = [
     "numpy",
     "scikit-learn",
     "lightgbm",
-    "fairgbm",
-    "optuna",
-    "jupyterlab",
     "matplotlib",
     "gdown",
     "chardet",
+    "xxhash",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "ruff",
+    "jupyterlab",
+]
+xai = [
     "shap",
     "lime",
     "dice-ml",
-    "xxhash",
 ]
+tuning = [
+    "optuna",
+]
+fairness = [
+    "fairgbm",
+]
+
 
 [project.urls]
 Homepage = "https://github.com/kiranG18/TrustCredit"

@@ -9,17 +9,17 @@ Supports three benchmark credit datasets:
 
 import os
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Union
 
 import pandas as pd
 
 
-def read_csv_encoded(path: str, filename: str) -> pd.DataFrame:
+def read_csv_encoded(path: Union[str, Path], filename: str) -> pd.DataFrame:
     """Read a CSV file with automatic character encoding detection.
 
     Parameters
     ----------
-    path : str
+    path : str or Path
         Directory where the file is located.
     filename : str
         Name of the CSV file to read.
@@ -29,37 +29,41 @@ def read_csv_encoded(path: str, filename: str) -> pd.DataFrame:
     pd.DataFrame
         DataFrame loaded from the CSV file.
     """
-    the_file = os.path.join(path, filename)
+    path = Path(path)
+    the_file = path / filename
+    if not the_file.exists():
+        raise FileNotFoundError(f"File not found: '{the_file}'")
     try:
         data = pd.read_csv(the_file, index_col=False)
     except UnicodeDecodeError:
         import chardet
-        rawdata = open(the_file, "rb").read()
+        rawdata = the_file.read_bytes()
         result = chardet.detect(rawdata)
         charenc = result["encoding"]
         data = pd.read_csv(the_file, encoding=charenc, index_col=False)
     return data
 
 
-def download_datasets(output_dir: str = ".") -> None:
+def download_datasets(output_dir: Union[str, Path] = ".") -> None:
     """Download all benchmark datasets from Google Drive and unzip them.
 
     Parameters
     ----------
-    output_dir : str, optional
+    output_dir : str or Path, optional
         Directory to download and extract data into, by default "."
     """
     import gdown
     import zipfile
+    output_dir = Path(output_dir)
     url = "https://drive.google.com/uc?id=1Y7bTNsxDv-te40FnJsoca1YeB4da6TCq"
-    output = os.path.join(output_dir, "data.zip")
-    gdown.download(url, output, quiet=False)
+    output = output_dir / "data.zip"
+    gdown.download(url, str(output), quiet=False)
     with zipfile.ZipFile(output, "r") as zip_ref:
         zip_ref.extractall(output_dir)
-    os.remove(output)
+    output.unlink()
 
 
-def prepare_datasets(data_path: str = "data") -> None:
+def prepare_datasets(data_path: Union[str, Path] = "data") -> None:
     """Preprocess raw datasets and save them as cleaned CSVs.
 
     Reads raw files from `data_path`, applies column renaming, type casting,
@@ -67,21 +71,25 @@ def prepare_datasets(data_path: str = "data") -> None:
 
     Parameters
     ----------
-    data_path : str, optional
+    data_path : str or Path, optional
         Root folder containing raw dataset subdirectories, by default "data"
     """
-    os.makedirs(os.path.join(data_path, "prepared"), exist_ok=True)
+    data_path = Path(data_path)
+    prepared_dir = data_path / "prepared"
+    prepared_dir.mkdir(parents=True, exist_ok=True)
 
     # --- Home Credit ---
-    df = read_csv_encoded(os.path.join(data_path, "HomeCredit"), "application_train.csv")
+    home_credit_dir = data_path / "HomeCredit"
+    df = read_csv_encoded(home_credit_dir, "application_train.csv")
     df = df.drop(columns=["SK_ID_CURR", "OCCUPATION_TYPE", "ORGANIZATION_TYPE"])
     df = df.rename(columns={"TARGET": "DEFAULT"})
     for col in df.select_dtypes("object").columns:
         df[col] = pd.Categorical(df[col])
-    df.to_csv(os.path.join(data_path, "prepared/homecredit.csv"), index=False)
+    df.to_csv(prepared_dir / "homecredit.csv", index=False)
 
     # --- Taiwan ---
-    df = read_csv_encoded(os.path.join(data_path, "Taiwan"), "Taiwan.csv")
+    taiwan_dir = data_path / "Taiwan"
+    df = read_csv_encoded(taiwan_dir, "Taiwan.csv")
     df.columns = df.iloc[0, :].tolist()
     df = df.iloc[1:, :].drop(columns=["ID"])
     df = df.rename(columns={"default payment next month": "DEFAULT"}).astype("float64")
@@ -95,10 +103,11 @@ def prepare_datasets(data_path: str = "data") -> None:
     cat_cols = ["SEX", "EDUCATION", "MARRIAGE", "PAY_0", "PAY_2", "PAY_3", "PAY_4", "PAY_5", "PAY_6"]
     for col in cat_cols:
         df[col] = pd.Categorical(df[col])
-    df.to_csv(os.path.join(data_path, "prepared/taiwan.csv"), index=False)
+    df.to_csv(prepared_dir / "taiwan.csv", index=False)
 
     # --- German Credit ---
-    df = read_csv_encoded(os.path.join(data_path, "German"), "german.csv")
+    german_dir = data_path / "German"
+    df = read_csv_encoded(german_dir, "german.csv")
     df.columns = [
         "CheckingAccount", "Duration", "CreditHistory", "Purpose", "CreditAmount",
         "SavingsAccount", "EmploymentSince", "InstallmentRate", "PersonalStatus",
@@ -148,20 +157,19 @@ def prepare_datasets(data_path: str = "data") -> None:
     ]
     for col in cat_cols:
         df[col] = pd.Categorical(df[col])
-    df.to_csv(os.path.join(data_path, "prepared/german.csv"), index=False)
-    print(f"All datasets prepared and saved to {data_path}/prepared/")
+    df.to_csv(prepared_dir / "german.csv", index=False)
+    print(f"All datasets prepared and saved to {prepared_dir}")
 
 
-def load_dataset(dataset_name: str, data_path: Optional[str] = None) -> pd.DataFrame:
+def load_dataset(dataset_name: str, data_path: Optional[Union[str, Path]] = None) -> pd.DataFrame:
     """Load a prepared benchmark credit dataset by name.
 
     Parameters
     ----------
     dataset_name : str
         One of "homecredit", "taiwan", or "german".
-    data_path : str, optional
-        Root path to the data directory. If None, uses the path from config
-        or defaults to "data/prepared/".
+    data_path : str or Path, optional
+        Root path to the data directory. If None, defaults to "data/prepared/".
 
     Returns
     -------
@@ -172,9 +180,13 @@ def load_dataset(dataset_name: str, data_path: Optional[str] = None) -> pd.DataF
     ------
     ValueError
         If `dataset_name` is not one of the supported datasets.
+    FileNotFoundError
+        If the prepared dataset file cannot be found.
     """
     if data_path is None:
-        data_path = "data/prepared"
+        data_path = Path("data/prepared")
+    else:
+        data_path = Path(data_path)
 
     dataset_configs = {
         "homecredit": {
@@ -201,7 +213,15 @@ def load_dataset(dataset_name: str, data_path: Optional[str] = None) -> pd.DataF
         )
 
     config = dataset_configs[dataset_name]
-    df = pd.read_csv(os.path.join(data_path, config["file"]))
+    target_file = data_path / config["file"]
+    
+    if not target_file.exists():
+        raise FileNotFoundError(
+            f"Dataset file not found: '{target_file}'. "
+            "Please ensure you run `prepare_datasets()` or the download script first."
+        )
+
+    df = pd.read_csv(target_file)
 
     cat_cols = config["cat_cols"]
     if cat_cols == "infer":
