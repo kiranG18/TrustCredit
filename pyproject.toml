@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trustcredit"
+version = "1.0.0"
+authors = [
+  { name = "Kiran", email = "kiran@iitm.ac.in" }
+]
+description = "TrustCredit: A responsible credit risk modeling pipeline using reject inference, fairness-aware learning, and explainable AI."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Financial Developers",
+    "Natural Language :: English",
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "lightgbm",
+    "fairgbm",
+    "optuna",
+    "jupyterlab",
+    "matplotlib",
+    "gdown",
+    "chardet",
+    "shap",
+    "lime",
+    "dice-ml",
+    "xxhash",
+]
+
+[project.urls]
+Homepage = "https://github.com/kiranG18/TrustCredit"
+Issues = "https://github.com/kiranG18/TrustCredit/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,94 @@
+# TrustCredit Configuration
+# All experiment parameters are centralized here for full reproducibility.
+
+project:
+  name: TrustCredit
+  author: Kiran
+  institution: IIT Madras
+  version: "1.0.0"
+
+# ──────────────────────────────────────────────
+# Paths
+# ──────────────────────────────────────────────
+paths:
+  data_raw: data/raw
+  data_prepared: data/prepared
+  results: results
+  assets: assets
+
+# ──────────────────────────────────────────────
+# Reproducibility
+# ──────────────────────────────────────────────
+seed: 42
+
+# ──────────────────────────────────────────────
+# Dataset settings
+# ──────────────────────────────────────────────
+datasets:
+  - name: german
+    target_col: DEFAULT
+    sensitive_col: Gender         # binary: Male / Female
+    sensitive_positive: Male      # group coded as 1
+    reject_fraction: 0.3          # fraction of data treated as "rejected" in reject inference experiments
+
+  - name: taiwan
+    target_col: DEFAULT
+    sensitive_col: SEX
+    sensitive_positive: Male
+    reject_fraction: 0.3
+
+# ──────────────────────────────────────────────
+# Training / Evaluation split
+# ──────────────────────────────────────────────
+split:
+  test_size: 0.2
+  val_size: 0.1                   # used from training set for fast Optuna tuning
+  stratify: true
+
+# ──────────────────────────────────────────────
+# Optuna hyperparameter search
+# ──────────────────────────────────────────────
+optuna:
+  n_trials: 50
+  timeout: null                   # null = no time limit
+  n_jobs: 1                       # set > 1 for parallel trials
+
+# ──────────────────────────────────────────────
+# Default pipeline settings
+# ──────────────────────────────────────────────
+pipeline:
+  normalize: true
+  do_EBE: true
+  onehot: true
+  ebe_crit: 3                     # categories threshold for EBE vs OHE
+
+# ──────────────────────────────────────────────
+# FairGBM settings
+# ──────────────────────────────────────────────
+fairgbm:
+  constraint_type: FNR            # FNR = equalized false negative rate
+  multiplier_learning_rate: 0.1
+  n_estimators: 100
+  verbose: -1
+
+# ──────────────────────────────────────────────
+# ThresholdOpt settings
+# ──────────────────────────────────────────────
+threshold_opt:
+  perf_metric: balanced_accuracy
+  fair_metric: demographic_parity
+  constraint_value: 0.05
+  n_thresholds: 25
+
+# ──────────────────────────────────────────────
+# Plotting
+# ──────────────────────────────────────────────
+plots:
+  dpi: 150
+  figsize_wide: [14, 5]
+  figsize_square: [8, 6]
+  color_palette:
+    - "#4e79a7"   # baseline
+    - "#f28e2b"   # reject inference
+    - "#59a14f"   # fairness
+    - "#e15759"   # full pipeline
