@@ -1,0 +1,1001 @@
+CheckingAccount,Duration,CreditHistory,Purpose,CreditAmount,SavingsAccount,EmploymentSince,InstallmentRate,Gender,OtherDebtors,ResidenceSince,Property,Age,OtherInstallmentPlans,Housing,ExistingCredits,Job,Dependents,Telephone,ForeignWorker,DEFAULT
+> 200,66,Critical account,Furniture/equipment,3801,500 - 1000,4 - 7,3,Female,Guarantor,1,Savings agreement/life insurance,74,Bank,For free,1,Unemployed,1,0,0,1
+No,20,No credits/all paid,Radio/television,12547,> 1000,4 - 7,2,Male,Guarantor,2,Savings agreement/life insurance,53,Stores,Rent,1,Unemployed,2,0,1,0
+< 0,36,No credits/all paid,Vacation,11215,Unknown/None,< 1,1,Female,Co-applicant,2,Real estate,68,Stores,For free,4,Highly skilled,2,1,0,1
+> 200,32,Existing paid,Repairs,3082,100 - 500,< 1,4,Female,Guarantor,3,Car or other,51,Stores,Own,2,Unemployed,1,0,1,1
+> 200,16,Delay in paying,Domestic appliances,13672,Unknown/None,< 1,4,Female,Co-applicant,2,Car or other,26,Bank,For free,4,Skilled,1,0,0,0
+No,49,All paid,Radio/television,402,> 1000,1 - 4,1,Female,Co-applicant,3,Unknown/None,29,Bank,Rent,1,Skilled,1,1,1,1
+< 0,38,Delay in paying,Vacation,11406,500 - 1000,< 1,3,Female,Guarantor,2,Real estate,19,Stores,Own,4,Unemployed,1,0,1,1
+< 0,9,Critical account,Car (new),11358,> 1000,4 - 7,1,Male,No,2,Real estate,55,Bank,For free,2,Highly skilled,2,0,1,1
+> 200,50,All paid,Retraining,3050,> 1000,1 - 4,1,Female,Co-applicant,4,Unknown/None,22,Bank,Own,3,Unskilled,2,0,0,1
+0 - 200,28,Existing paid,Car (new),5560,Unknown/None,> 7,2,Male,Guarantor,2,Savings agreement/life insurance,22,No,Rent,3,Highly skilled,1,0,0,1
+> 200,69,Existing paid,Vacation,10194,100 - 500,Unemployed,1,Male,Co-applicant,2,Savings agreement/life insurance,69,No,For free,3,Highly skilled,1,1,1,1
+> 200,13,All paid,Radio/television,2860,> 1000,< 1,1,Male,No,3,Car or other,39,Stores,For free,3,Unskilled,2,1,1,0
+> 200,59,No credits/all paid,Retraining,12317,Unknown/None,> 7,4,Male,No,3,Real estate,22,Stores,Own,1,Unskilled,1,0,0,1
+> 200,33,All paid,Others,1354,100 - 500,4 - 7,2,Male,Co-applicant,4,Savings agreement/life insurance,21,No,For free,1,Unskilled,2,0,0,0
+No,8,Critical account,Domestic appliances,10978,500 - 1000,Unemployed,4,Male,No,2,Car or other,26,Bank,For free,2,Skilled,2,0,1,1
+< 0,36,No credits/all paid,Furniture/equipment,7513,500 - 1000,> 7,4,Male,Guarantor,2,Car or other,46,Stores,For free,2,Unskilled,1,1,0,1
+No,68,Existing paid,Retraining,2164,< 100,Unemployed,3,Male,Guarantor,3,Car or other,39,Stores,For free,2,Unskilled,2,0,0,0
+No,21,All paid,Others,656,Unknown/None,< 1,3,Female,Co-applicant,1,Savings agreement/life insurance,44,Stores,Rent,2,Highly skilled,2,0,0,1
+No,52,Delay in paying,Retraining,13939,100 - 500,4 - 7,2,Female,No,1,Savings agreement/life insurance,27,Bank,For free,4,Highly skilled,2,1,0,1
+> 200,14,Delay in paying,Radio/television,416,> 1000,Unemployed,2,Male,Guarantor,1,Real estate,33,No,Own,2,Unemployed,2,0,0,0
+0 - 200,29,Critical account,Others,758,500 - 1000,> 7,3,Male,Guarantor,3,Real estate,59,Stores,Rent,3,Highly skilled,1,1,0,1
+< 0,66,Delay in paying,Radio/television,3914,100 - 500,< 1,3,Male,Guarantor,3,Car or other,59,No,Own,3,Unskilled,2,0,1,1
+0 - 200,62,All paid,Vacation,13300,Unknown/None,< 1,3,Female,Co-applicant,1,Car or other,68,No,Own,3,Skilled,2,1,1,1
+No,30,All paid,Car (used),930,< 100,> 7,3,Female,Co-applicant,1,Savings agreement/life insurance,27,Bank,Own,4,Highly skilled,2,0,1,1
+No,52,Delay in paying,Retraining,4607,500 - 1000,> 7,3,Male,Guarantor,2,Savings agreement/life insurance,23,Bank,Rent,2,Highly skilled,1,0,1,1
+0 - 200,36,All paid,Repairs,1613,100 - 500,Unemployed,4,Male,Guarantor,3,Real estate,66,Bank,Rent,3,Unskilled,1,1,1,0
+0 - 200,4,Critical account,Retraining,9773,100 - 500,1 - 4,2,Female,No,3,Real estate,22,Bank,Rent,3,Highly skilled,1,1,1,0
+0 - 200,24,No credits/all paid,Vacation,2542,100 - 500,< 1,4,Female,No,1,Unknown/None,23,Bank,For free,3,Highly skilled,2,1,0,0
+No,58,Critical account,Education,1788,Unknown/None,Unemployed,4,Male,No,1,Real estate,73,Bank,Own,3,Unskilled,1,1,0,1
+No,9,Critical account,Car (new),3658,Unknown/None,> 7,1,Male,Co-applicant,4,Savings agreement/life insurance,64,Stores,Rent,1,Highly skilled,1,1,1,1
+< 0,8,All paid,Furniture/equipment,9002,Unknown/None,Unemployed,4,Male,Guarantor,3,Car or other,42,No,Own,2,Skilled,1,0,1,1
+< 0,6,No credits/all paid,Others,424,> 1000,> 7,3,Male,Co-applicant,4,Unknown/None,68,Bank,Rent,2,Unemployed,2,1,1,0
+No,56,All paid,Car (used),2480,100 - 500,4 - 7,3,Female,Guarantor,2,Real estate,67,Stores,Rent,4,Highly skilled,1,1,0,1
+0 - 200,26,Existing paid,Domestic appliances,4537,500 - 1000,> 7,1,Female,No,4,Real estate,21,No,Rent,1,Skilled,1,1,0,1
+0 - 200,56,All paid,Domestic appliances,12362,Unknown/None,> 7,1,Male,No,1,Savings agreement/life insurance,57,Bank,Own,4,Highly skilled,1,1,0,1
+< 0,40,All paid,Domestic appliances,7356,Unknown/None,> 7,1,Male,No,3,Unknown/None,65,Bank,For free,3,Unemployed,2,0,0,1
+No,20,All paid,Radio/television,9939,100 - 500,1 - 4,1,Male,No,3,Real estate,49,Stores,Rent,4,Unskilled,2,0,1,0
+< 0,4,No credits/all paid,Domestic appliances,12296,Unknown/None,> 7,1,Female,Guarantor,4,Car or other,73,No,Rent,3,Unemployed,1,0,1,1
+< 0,54,All paid,Furniture/equipment,1401,> 1000,< 1,4,Male,No,4,Savings agreement/life insurance,68,Bank,Rent,3,Highly skilled,1,0,1,1
+> 200,48,No credits/all paid,Car (new),7869,> 1000,< 1,1,Male,Guarantor,2,Unknown/None,69,No,For free,2,Unemployed,1,0,1,1
+> 200,7,Delay in paying,Domestic appliances,6283,Unknown/None,Unemployed,4,Male,Guarantor,2,Real estate,52,Stores,Own,2,Unemployed,2,1,0,0
+> 200,65,Existing paid,Retraining,8810,100 - 500,1 - 4,2,Female,Co-applicant,1,Real estate,27,Bank,Own,2,Unskilled,2,0,0,1
+0 - 200,68,No credits/all paid,Retraining,5196,100 - 500,Unemployed,1,Male,No,1,Unknown/None,51,No,Own,2,Highly skilled,1,0,1,1
+No,35,Delay in paying,Radio/television,2157,100 - 500,< 1,1,Female,No,1,Savings agreement/life insurance,53,Stores,Own,2,Unemployed,2,1,0,1
+No,37,No credits/all paid,Furniture/equipment,3740,< 100,< 1,4,Male,Co-applicant,4,Unknown/None,23,Stores,Rent,1,Unemployed,1,1,0,1
+No,42,No credits/all paid,Car (new),4423,Unknown/None,4 - 7,2,Male,Guarantor,4,Unknown/None,60,Bank,For free,2,Unskilled,2,0,0,0
+No,29,Existing paid,Car (used),11315,100 - 500,> 7,4,Male,No,3,Savings agreement/life insurance,63,No,Rent,4,Skilled,1,0,0,1
+> 200,37,Critical account,Vacation,17927,> 1000,< 1,4,Female,Guarantor,1,Real estate,33,Bank,For free,3,Highly skilled,2,1,1,1
+0 - 200,57,Critical account,Car (new),5019,500 - 1000,Unemployed,1,Male,Co-applicant,4,Car or other,70,Bank,Own,2,Skilled,1,0,0,0
+0 - 200,6,No credits/all paid,Vacation,5046,500 - 1000,Unemployed,3,Male,Guarantor,3,Savings agreement/life insurance,36,No,For free,1,Skilled,2,1,1,0
+> 200,53,All paid,Education,13296,100 - 500,> 7,3,Female,No,1,Car or other,51,No,Rent,4,Unskilled,1,1,0,1
+0 - 200,15,Delay in paying,Vacation,14461,500 - 1000,> 7,4,Female,Guarantor,2,Real estate,42,No,Rent,4,Unskilled,1,0,0,0
+> 200,68,All paid,Repairs,5247,500 - 1000,4 - 7,1,Female,Guarantor,2,Unknown/None,48,Stores,Own,3,Highly skilled,1,0,1,0
+No,57,All paid,Retraining,17626,< 100,1 - 4,2,Male,No,4,Car or other,66,Stores,Rent,4,Skilled,1,0,1,1
+> 200,8,No credits/all paid,Furniture/equipment,8362,> 1000,Unemployed,3,Female,No,3,Real estate,58,No,Rent,4,Unemployed,2,1,0,1
+No,60,No credits/all paid,Business,5537,> 1000,> 7,2,Male,Guarantor,2,Real estate,34,Stores,For free,4,Skilled,1,1,0,1
+No,20,No credits/all paid,Radio/television,10828,< 100,Unemployed,3,Female,Guarantor,3,Unknown/None,64,Bank,Rent,4,Unskilled,2,0,1,1
+< 0,50,No credits/all paid,Repairs,6676,< 100,> 7,1,Female,Co-applicant,3,Unknown/None,47,No,Own,1,Unemployed,2,0,0,1
+> 200,26,Critical account,Vacation,11849,500 - 1000,< 1,4,Female,No,2,Real estate,56,Bank,Own,3,Unemployed,1,0,0,1
+< 0,17,No credits/all paid,Domestic appliances,639,Unknown/None,Unemployed,2,Male,Guarantor,3,Real estate,71,No,Rent,2,Unskilled,1,1,1,0
+> 200,69,Critical account,Furniture/equipment,1249,500 - 1000,< 1,2,Male,No,2,Car or other,72,Bank,Own,4,Unemployed,1,1,0,1
+> 200,54,Critical account,Repairs,13062,< 100,Unemployed,4,Male,Co-applicant,4,Real estate,48,No,For free,1,Skilled,1,1,0,1
+< 0,41,No credits/all paid,Radio/television,15849,> 1000,1 - 4,2,Male,Guarantor,1,Real estate,36,Bank,For free,3,Unskilled,2,0,0,1
+< 0,67,Existing paid,Retraining,2105,500 - 1000,4 - 7,3,Male,Guarantor,1,Car or other,52,No,Rent,2,Highly skilled,2,1,0,1
+> 200,41,Delay in paying,Furniture/equipment,8375,Unknown/None,< 1,4,Male,Guarantor,4,Savings agreement/life insurance,46,No,Rent,3,Unskilled,2,1,0,0
+0 - 200,53,All paid,Radio/television,14044,500 - 1000,> 7,3,Male,No,2,Car or other,18,Stores,For free,1,Highly skilled,2,0,1,1
+No,33,Critical account,Education,3013,100 - 500,1 - 4,3,Male,Co-applicant,2,Car or other,21,Bank,Own,1,Highly skilled,1,1,0,1
+< 0,54,Delay in paying,Education,5236,500 - 1000,Unemployed,1,Male,No,2,Unknown/None,45,Stores,Rent,1,Unskilled,2,0,1,1
+No,66,Existing paid,Radio/television,1731,< 100,< 1,3,Female,Guarantor,2,Car or other,35,Bank,Rent,4,Unskilled,1,1,1,0
+0 - 200,55,All paid,Repairs,3981,> 1000,Unemployed,1,Female,Co-applicant,4,Real estate,43,Stores,Own,1,Highly skilled,1,0,0,0
+0 - 200,41,All paid,Furniture/equipment,17085,> 1000,Unemployed,2,Male,Guarantor,1,Real estate,57,No,Rent,2,Highly skilled,2,0,1,1
+0 - 200,33,Critical account,Repairs,17516,< 100,Unemployed,2,Male,Guarantor,3,Real estate,36,Stores,Own,4,Unemployed,2,1,0,1
+< 0,54,No credits/all paid,Car (used),11008,100 - 500,4 - 7,1,Male,No,3,Savings agreement/life insurance,72,Stores,Own,3,Unskilled,2,0,1,1
+0 - 200,8,Existing paid,Vacation,16561,< 100,4 - 7,3,Male,Guarantor,1,Real estate,72,No,Own,2,Unskilled,2,1,1,1
+< 0,32,Critical account,Car (used),8816,500 - 1000,> 7,4,Female,Co-applicant,4,Savings agreement/life insurance,74,Stores,Own,4,Unemployed,2,0,1,1
+0 - 200,7,Existing paid,Others,12139,< 100,< 1,4,Female,Guarantor,3,Real estate,23,No,Own,1,Unskilled,2,0,0,0
+No,13,No credits/all paid,Education,11504,< 100,1 - 4,1,Male,Guarantor,1,Car or other,18,Bank,For free,3,Unemployed,1,0,1,1
+No,59,No credits/all paid,Retraining,11692,100 - 500,1 - 4,2,Female,No,4,Unknown/None,25,Stores,Own,1,Unemployed,1,1,1,1
+> 200,20,Critical account,Car (new),13771,500 - 1000,1 - 4,2,Female,Co-applicant,3,Real estate,50,No,For free,2,Unskilled,1,0,1,1
+No,20,No credits/all paid,Vacation,4809,Unknown/None,Unemployed,4,Male,No,2,Savings agreement/life insurance,68,No,Own,2,Skilled,2,0,0,1
+> 200,37,Delay in paying,Education,16449,Unknown/None,4 - 7,1,Male,Guarantor,2,Savings agreement/life insurance,60,Stores,Rent,4,Highly skilled,1,1,0,1
+No,9,All paid,Repairs,7541,> 1000,< 1,4,Male,No,4,Unknown/None,38,Bank,For free,2,Unskilled,1,0,1,0
+< 0,56,Critical account,Repairs,8410,< 100,Unemployed,3,Male,No,2,Real estate,41,Stores,Rent,3,Skilled,1,0,1,1
+No,69,Existing paid,Repairs,362,> 1000,4 - 7,3,Female,No,4,Car or other,42,No,Own,4,Unemployed,1,0,1,1
+> 200,46,Delay in paying,Retraining,16174,100 - 500,4 - 7,1,Male,No,1,Real estate,64,Bank,Own,3,Skilled,1,0,1,1
+> 200,26,Critical account,Car (used),16773,Unknown/None,< 1,1,Female,Guarantor,1,Real estate,72,Stores,Rent,1,Unskilled,1,1,0,0
+0 - 200,58,No credits/all paid,Car (new),1674,< 100,< 1,3,Male,Guarantor,3,Unknown/None,74,No,Own,3,Unskilled,2,0,0,1
+< 0,19,No credits/all paid,Repairs,11058,100 - 500,< 1,2,Female,Co-applicant,4,Real estate,60,Stores,Rent,3,Skilled,2,0,0,0
+No,11,No credits/all paid,Business,6293,100 - 500,Unemployed,1,Male,No,3,Car or other,36,Bank,Own,2,Unskilled,2,1,1,1
+0 - 200,7,No credits/all paid,Others,7239,< 100,> 7,3,Male,No,3,Savings agreement/life insurance,46,Bank,Own,1,Highly skilled,1,0,0,0
+No,7,Existing paid,Vacation,6511,100 - 500,< 1,3,Female,Co-applicant,1,Unknown/None,70,Bank,For free,2,Skilled,2,0,1,0
+No,59,Delay in paying,Furniture/equipment,1137,< 100,> 7,2,Female,No,3,Car or other,27,Bank,Rent,1,Unemployed,2,1,1,1
+0 - 200,28,All paid,Business,16683,< 100,Unemployed,2,Female,Co-applicant,2,Savings agreement/life insurance,73,Bank,Own,1,Skilled,1,1,1,1
+0 - 200,70,Existing paid,Car (new),16652,500 - 1000,> 7,2,Male,Guarantor,3,Unknown/None,29,Stores,Rent,3,Skilled,2,1,0,1
+0 - 200,70,Existing paid,Retraining,12503,> 1000,1 - 4,2,Female,Co-applicant,4,Unknown/None,50,Bank,For free,2,Skilled,1,1,1,1
+0 - 200,30,All paid,Car (new),8096,100 - 500,> 7,4,Female,No,2,Savings agreement/life insurance,73,Bank,Rent,3,Skilled,2,0,0,0
+0 - 200,35,All paid,Furniture/equipment,6682,100 - 500,< 1,2,Female,Co-applicant,1,Savings agreement/life insurance,24,No,For free,3,Unemployed,1,1,1,1
+No,53,No credits/all paid,Vacation,13702,500 - 1000,Unemployed,4,Female,Guarantor,4,Car or other,34,Bank,Rent,3,Unemployed,1,0,0,1
+0 - 200,64,Existing paid,Furniture/equipment,13645,500 - 1000,< 1,1,Female,No,2,Real estate,27,No,Rent,1,Unemployed,2,1,1,1
+< 0,54,Critical account,Radio/television,4015,500 - 1000,1 - 4,3,Female,Guarantor,4,Real estate,48,No,For free,2,Skilled,1,0,0,1
+> 200,22,All paid,Vacation,16200,Unknown/None,< 1,4,Female,Guarantor,2,Real estate,23,No,Own,2,Highly skilled,2,1,1,1
+0 - 200,24,All paid,Car (new),12752,Unknown/None,< 1,1,Female,Co-applicant,4,Real estate,34,Stores,Own,3,Highly skilled,1,1,0,1
+0 - 200,8,Delay in paying,Repairs,9991,Unknown/None,< 1,1,Female,Guarantor,4,Real estate,67,Stores,Own,1,Unemployed,2,0,1,1
+No,45,Critical account,Car (new),6191,< 100,4 - 7,4,Male,No,2,Car or other,54,No,Rent,2,Highly skilled,2,1,1,1
+0 - 200,64,Critical account,Car (new),5105,100 - 500,1 - 4,1,Male,Guarantor,1,Unknown/None,35,Stores,Rent,4,Highly skilled,1,1,1,1
+0 - 200,25,All paid,Vacation,15416,> 1000,< 1,1,Female,Guarantor,1,Car or other,43,Bank,Own,2,Highly skilled,2,1,0,0
+0 - 200,24,No credits/all paid,Others,6038,< 100,< 1,4,Male,Co-applicant,4,Car or other,66,Stores,Rent,3,Highly skilled,2,0,1,0
+No,4,Delay in paying,Radio/television,451,100 - 500,< 1,1,Male,Guarantor,4,Car or other,71,Bank,Rent,4,Highly skilled,2,1,1,0
+0 - 200,8,Critical account,Car (new),10811,100 - 500,Unemployed,2,Female,Co-applicant,1,Unknown/None,33,Bank,Own,1,Unskilled,1,1,1,0
+> 200,15,All paid,Business,17151,500 - 1000,4 - 7,2,Female,Co-applicant,1,Car or other,25,Stores,For free,4,Unemployed,1,0,0,0
+No,49,Critical account,Education,7987,500 - 1000,Unemployed,3,Female,No,3,Car or other,41,Stores,Rent,4,Skilled,2,0,1,1
+> 200,37,Delay in paying,Domestic appliances,2238,< 100,4 - 7,1,Female,No,1,Unknown/None,30,No,Rent,3,Highly skilled,2,1,1,1
+No,52,Delay in paying,Domestic appliances,15691,500 - 1000,< 1,3,Female,No,4,Car or other,46,Stores,Rent,2,Unskilled,1,0,0,1
+0 - 200,48,Existing paid,Car (new),11987,100 - 500,1 - 4,2,Female,No,2,Real estate,49,Stores,Rent,1,Skilled,1,0,1,1
+> 200,30,All paid,Business,14506,500 - 1000,> 7,2,Male,Co-applicant,1,Savings agreement/life insurance,41,Stores,For free,4,Unskilled,2,0,0,0
+No,29,Delay in paying,Others,7412,Unknown/None,> 7,2,Female,Guarantor,3,Car or other,33,Bank,Own,3,Highly skilled,1,1,1,1
+< 0,50,Existing paid,Repairs,13315,500 - 1000,< 1,1,Male,No,3,Savings agreement/life insurance,28,Bank,Rent,2,Highly skilled,1,1,0,1
+0 - 200,59,Existing paid,Retraining,14364,100 - 500,Unemployed,1,Female,No,3,Car or other,49,Bank,Own,4,Highly skilled,2,0,0,1
+No,66,Critical account,Retraining,8649,< 100,1 - 4,2,Female,No,2,Car or other,23,No,Rent,3,Highly skilled,1,1,0,1
+< 0,51,Critical account,Vacation,5883,> 1000,4 - 7,3,Male,Guarantor,1,Real estate,52,No,For free,3,Skilled,1,0,1,1
+No,64,Existing paid,Domestic appliances,6005,500 - 1000,< 1,3,Female,No,1,Unknown/None,50,No,Own,3,Skilled,1,1,1,1
+< 0,29,Critical account,Car (new),11075,100 - 500,1 - 4,4,Female,Guarantor,1,Savings agreement/life insurance,35,Bank,For free,1,Unskilled,2,0,0,1
+0 - 200,39,Delay in paying,Retraining,4367,> 1000,1 - 4,2,Male,Co-applicant,2,Unknown/None,54,Stores,Rent,2,Unemployed,1,1,1,1
+> 200,4,No credits/all paid,Car (new),1768,> 1000,4 - 7,3,Female,Co-applicant,2,Real estate,30,No,For free,4,Highly skilled,2,0,1,0
+< 0,11,Delay in paying,Vacation,16596,Unknown/None,1 - 4,2,Male,Co-applicant,4,Real estate,27,No,For free,2,Unskilled,1,1,0,1
+No,55,Existing paid,Domestic appliances,2850,> 1000,Unemployed,3,Female,Guarantor,3,Savings agreement/life insurance,54,Bank,Rent,2,Unskilled,1,1,0,0
+0 - 200,50,Existing paid,Furniture/equipment,13487,100 - 500,Unemployed,4,Female,No,3,Unknown/None,43,No,Rent,4,Unskilled,2,0,0,1
+< 0,59,Delay in paying,Others,3804,100 - 500,Unemployed,4,Male,No,1,Real estate,63,Stores,Own,2,Highly skilled,2,1,0,1
+No,17,Critical account,Education,16443,500 - 1000,1 - 4,2,Female,No,2,Car or other,34,Bank,Rent,1,Highly skilled,2,1,1,0
+No,31,Critical account,Education,15503,500 - 1000,Unemployed,3,Male,No,2,Car or other,18,Bank,Own,4,Unskilled,2,1,1,1
+No,5,Existing paid,Retraining,16444,500 - 1000,4 - 7,1,Male,No,1,Car or other,42,Stores,For free,4,Highly skilled,1,1,1,0
+< 0,29,All paid,Education,1992,> 1000,1 - 4,4,Male,Guarantor,1,Unknown/None,51,Stores,For free,3,Unskilled,2,1,1,1
+< 0,17,Critical account,Others,1556,> 1000,> 7,2,Female,Co-applicant,4,Car or other,56,Stores,Own,2,Skilled,2,1,1,0
+< 0,62,Delay in paying,Furniture/equipment,4099,Unknown/None,1 - 4,2,Female,No,3,Car or other,27,No,Rent,4,Highly skilled,2,1,1,1
+> 200,59,Critical account,Others,12610,500 - 1000,4 - 7,3,Male,Co-applicant,3,Real estate,37,Stores,Rent,4,Skilled,1,1,0,1
+< 0,10,Delay in paying,Car (new),13018,< 100,> 7,2,Female,Guarantor,3,Real estate,24,Bank,For free,1,Unemployed,1,0,1,1
+< 0,6,Existing paid,Vacation,13282,Unknown/None,1 - 4,4,Female,Guarantor,4,Car or other,73,Stores,Own,3,Highly skilled,2,1,1,1
+< 0,26,Critical account,Furniture/equipment,4445,< 100,Unemployed,2,Female,No,1,Car or other,33,Bank,For free,4,Unemployed,2,0,1,1
+> 200,21,Delay in paying,Vacation,7869,> 1000,< 1,2,Male,Guarantor,1,Real estate,54,Bank,For free,1,Unskilled,2,1,0,1
+< 0,41,Existing paid,Vacation,9530,Unknown/None,< 1,1,Female,Co-applicant,3,Savings agreement/life insurance,46,No,Rent,4,Highly skilled,2,0,0,1
+No,18,All paid,Domestic appliances,2892,Unknown/None,Unemployed,1,Male,No,3,Unknown/None,29,Stores,Own,4,Highly skilled,1,1,1,0
+< 0,67,Delay in paying,Car (new),9619,100 - 500,< 1,4,Female,No,4,Unknown/None,34,No,For free,4,Highly skilled,2,0,0,1
+No,31,All paid,Business,14546,> 1000,< 1,3,Female,Co-applicant,2,Real estate,65,Stores,Rent,1,Unemployed,1,0,0,0
+No,42,All paid,Education,15688,> 1000,Unemployed,1,Male,No,2,Unknown/None,37,Stores,For free,2,Unemployed,2,1,1,0
+No,60,No credits/all paid,Business,15924,Unknown/None,Unemployed,3,Female,No,3,Real estate,43,Stores,For free,4,Unskilled,2,0,1,1
+> 200,20,Critical account,Domestic appliances,5007,> 1000,1 - 4,4,Male,Co-applicant,4,Real estate,65,Stores,Rent,4,Skilled,1,1,1,0
+> 200,47,Delay in paying,Vacation,3244,Unknown/None,1 - 4,1,Female,No,3,Real estate,36,Stores,Rent,2,Skilled,2,1,0,1
+> 200,28,All paid,Retraining,15476,100 - 500,Unemployed,3,Male,No,2,Real estate,64,Bank,Own,4,Unemployed,2,0,0,0
+< 0,20,No credits/all paid,Others,1521,Unknown/None,4 - 7,1,Female,Co-applicant,3,Savings agreement/life insurance,29,Bank,For free,3,Highly skilled,2,1,1,1
+No,16,Existing paid,Education,2063,> 1000,< 1,4,Female,Guarantor,2,Car or other,38,Stores,Own,4,Skilled,2,0,0,1
+> 200,28,Delay in paying,Education,8725,> 1000,1 - 4,4,Female,Co-applicant,2,Car or other,59,Bank,Rent,3,Skilled,1,0,0,1
+> 200,71,All paid,Car (new),4646,Unknown/None,< 1,1,Male,No,2,Savings agreement/life insurance,71,No,Rent,2,Unemployed,2,1,0,1
+< 0,13,Critical account,Radio/television,9533,Unknown/None,> 7,3,Male,Co-applicant,1,Unknown/None,51,No,For free,1,Unskilled,2,1,1,1
+> 200,70,No credits/all paid,Car (used),13568,Unknown/None,Unemployed,2,Male,No,1,Unknown/None,24,No,Own,2,Unemployed,1,1,1,1
+< 0,21,All paid,Car (used),17450,500 - 1000,4 - 7,2,Female,No,3,Car or other,62,Stores,Own,4,Unemployed,2,1,1,0
+0 - 200,37,Critical account,Car (used),332,> 1000,> 7,1,Male,Co-applicant,2,Unknown/None,52,Stores,For free,3,Highly skilled,1,1,1,1
+> 200,11,All paid,Radio/television,2170,> 1000,> 7,3,Male,No,1,Car or other,32,Bank,For free,1,Unemployed,2,0,1,1
+0 - 200,43,Delay in paying,Car (new),8067,500 - 1000,> 7,2,Male,Guarantor,3,Car or other,18,Bank,Own,4,Highly skilled,2,0,0,0
+< 0,45,Delay in paying,Radio/television,11933,Unknown/None,Unemployed,4,Male,No,3,Savings agreement/life insurance,43,Bank,Rent,1,Unskilled,2,1,0,1
+No,44,Delay in paying,Car (used),11586,100 - 500,1 - 4,3,Male,Co-applicant,3,Unknown/None,52,No,Rent,1,Highly skilled,1,1,0,1
+> 200,9,No credits/all paid,Domestic appliances,15846,Unknown/None,Unemployed,2,Male,Guarantor,3,Savings agreement/life insurance,42,No,For free,4,Unskilled,1,1,0,1
+< 0,55,Delay in paying,Furniture/equipment,2343,Unknown/None,1 - 4,3,Male,Guarantor,3,Car or other,59,No,Own,2,Unskilled,2,0,0,1
+No,29,Critical account,Vacation,13155,500 - 1000,> 7,1,Male,No,4,Car or other,32,No,Own,4,Unskilled,1,0,0,1
+No,67,All paid,Radio/television,8617,> 1000,> 7,3,Male,Co-applicant,2,Car or other,39,Bank,Own,4,Unemployed,2,0,1,1
+0 - 200,62,Existing paid,Car (new),5535,Unknown/None,4 - 7,2,Male,No,3,Real estate,23,Stores,Rent,2,Highly skilled,1,1,1,1
+< 0,59,Critical account,Car (new),11146,> 1000,1 - 4,1,Female,No,4,Real estate,69,Stores,Rent,3,Skilled,2,1,0,1
+No,62,Critical account,Business,5187,< 100,> 7,3,Female,Co-applicant,2,Real estate,32,No,Own,4,Unemployed,1,0,1,0
+> 200,36,Delay in paying,Furniture/equipment,17003,> 1000,< 1,4,Male,Co-applicant,1,Savings agreement/life insurance,41,Stores,Own,1,Unskilled,2,1,0,1
+> 200,56,No credits/all paid,Retraining,13227,100 - 500,4 - 7,2,Female,No,3,Car or other,38,Stores,For free,4,Skilled,1,1,0,1
+0 - 200,25,All paid,Education,7924,100 - 500,Unemployed,1,Female,Guarantor,4,Unknown/None,24,Stores,For free,4,Unemployed,1,0,1,1
+No,24,No credits/all paid,Car (used),17998,Unknown/None,4 - 7,3,Male,No,1,Savings agreement/life insurance,74,No,Own,1,Skilled,1,0,1,1
+< 0,7,All paid,Retraining,3926,> 1000,< 1,4,Male,Guarantor,4,Savings agreement/life insurance,46,Bank,Own,2,Unskilled,1,1,0,1
+> 200,65,All paid,Business,2676,Unknown/None,1 - 4,2,Male,No,2,Savings agreement/life insurance,49,Bank,Rent,3,Skilled,2,0,1,1
+No,65,No credits/all paid,Car (used),3212,500 - 1000,Unemployed,4,Female,Co-applicant,2,Unknown/None,49,Stores,Own,3,Skilled,2,1,0,1
+No,27,Critical account,Furniture/equipment,1109,100 - 500,Unemployed,3,Male,Guarantor,1,Car or other,70,Bank,For free,1,Unskilled,1,0,0,1
+0 - 200,58,All paid,Others,12298,Unknown/None,1 - 4,3,Female,Co-applicant,4,Real estate,22,Bank,Rent,2,Skilled,2,0,0,1
+> 200,12,No credits/all paid,Business,4388,500 - 1000,4 - 7,1,Male,Co-applicant,3,Car or other,21,No,For free,4,Unemployed,1,1,0,0
+> 200,6,All paid,Car (used),2674,Unknown/None,> 7,4,Female,Co-applicant,3,Car or other,39,No,For free,4,Skilled,2,1,0,1
+< 0,34,Existing paid,Furniture/equipment,10659,> 1000,4 - 7,1,Female,Co-applicant,1,Savings agreement/life insurance,35,Stores,Rent,4,Highly skilled,1,0,1,1
+> 200,43,Critical account,Repairs,4267,> 1000,< 1,2,Male,Co-applicant,1,Savings agreement/life insurance,52,Stores,For free,4,Unemployed,2,1,0,0
+< 0,39,Delay in paying,Retraining,10701,> 1000,> 7,1,Male,No,1,Savings agreement/life insurance,34,Stores,Own,4,Skilled,2,0,1,1
+> 200,27,All paid,Retraining,10528,> 1000,4 - 7,2,Female,Guarantor,4,Real estate,67,No,For free,1,Highly skilled,1,1,0,1
+0 - 200,9,Existing paid,Education,11246,< 100,1 - 4,3,Female,No,3,Real estate,67,Bank,Rent,4,Highly skilled,1,0,1,1
+> 200,69,Delay in paying,Furniture/equipment,1384,500 - 1000,< 1,3,Male,No,3,Real estate,73,No,Rent,4,Highly skilled,1,0,0,1
+< 0,7,Delay in paying,Radio/television,5369,500 - 1000,< 1,4,Male,No,3,Car or other,41,No,Rent,2,Skilled,1,0,1,1
+< 0,9,All paid,Repairs,5944,> 1000,< 1,2,Female,Co-applicant,1,Savings agreement/life insurance,19,Bank,For free,4,Unskilled,1,1,0,1
+0 - 200,54,No credits/all paid,Others,4414,< 100,> 7,3,Male,No,3,Unknown/None,30,Bank,Own,3,Highly skilled,2,0,0,1
+> 200,65,All paid,Domestic appliances,5289,> 1000,Unemployed,4,Female,Guarantor,2,Car or other,71,Stores,Rent,1,Unskilled,1,0,1,1
+> 200,60,Existing paid,Car (used),14881,< 100,> 7,4,Male,No,1,Real estate,32,Bank,Own,1,Unemployed,2,0,1,1
+0 - 200,69,Delay in paying,Repairs,10692,> 1000,4 - 7,1,Male,Co-applicant,3,Unknown/None,22,Bank,Rent,1,Unskilled,1,0,1,1
+> 200,11,All paid,Furniture/equipment,8502,100 - 500,Unemployed,4,Male,Guarantor,4,Unknown/None,20,Bank,Own,3,Unskilled,2,1,1,1
+> 200,29,No credits/all paid,Vacation,17971,100 - 500,4 - 7,3,Female,Guarantor,1,Savings agreement/life insurance,54,Bank,Own,4,Unskilled,2,1,1,0
+< 0,54,All paid,Car (used),17818,Unknown/None,Unemployed,1,Male,Guarantor,2,Unknown/None,54,Stores,Own,1,Unskilled,1,0,1,1
+> 200,48,Critical account,Car (new),1801,> 1000,> 7,2,Female,Guarantor,2,Real estate,54,Stores,Rent,3,Unskilled,1,0,0,1
+> 200,47,No credits/all paid,Retraining,12875,500 - 1000,< 1,2,Male,No,4,Savings agreement/life insurance,20,Bank,For free,2,Unemployed,2,1,0,1
+0 - 200,8,Existing paid,Furniture/equipment,1879,Unknown/None,1 - 4,3,Female,Co-applicant,4,Unknown/None,52,Bank,For free,4,Unemployed,2,0,0,0
+0 - 200,29,Delay in paying,Others,1611,100 - 500,< 1,3,Female,Guarantor,1,Savings agreement/life insurance,69,Stores,For free,3,Unskilled,1,1,1,0
+No,71,All paid,Car (new),4620,> 1000,> 7,1,Male,Guarantor,1,Unknown/None,40,Stores,Own,4,Unskilled,2,0,1,0
+< 0,22,No credits/all paid,Education,5533,Unknown/None,Unemployed,1,Female,Co-applicant,2,Car or other,45,Bank,Rent,2,Highly skilled,2,1,1,1
+> 200,23,Critical account,Business,7860,> 1000,< 1,3,Female,No,4,Car or other,47,No,Own,3,Unemployed,2,0,0,1
+> 200,15,No credits/all paid,Domestic appliances,10808,100 - 500,> 7,3,Female,Guarantor,1,Real estate,35,Stores,Rent,4,Skilled,2,1,1,1
+No,50,Critical account,Domestic appliances,15174,Unknown/None,4 - 7,2,Female,No,2,Car or other,69,Stores,Own,3,Unemployed,2,1,0,0
+> 200,4,Existing paid,Car (new),15089,100 - 500,1 - 4,2,Male,No,4,Car or other,53,Stores,Rent,1,Skilled,2,1,1,1
+< 0,17,Delay in paying,Retraining,12199,< 100,< 1,2,Male,No,2,Car or other,50,Bank,Rent,4,Highly skilled,1,0,1,1
+No,67,Existing paid,Education,10876,100 - 500,Unemployed,3,Male,No,3,Unknown/None,43,Bank,Rent,3,Unskilled,1,1,1,1
+< 0,41,All paid,Vacation,2243,> 1000,4 - 7,4,Female,Guarantor,4,Unknown/None,65,Stores,Own,1,Highly skilled,1,1,0,1
+No,40,No credits/all paid,Retraining,1119,500 - 1000,> 7,3,Female,Guarantor,1,Savings agreement/life insurance,57,Bank,For free,2,Unskilled,1,0,1,1
+No,14,Critical account,Repairs,1264,100 - 500,1 - 4,3,Male,No,1,Unknown/None,34,Bank,Own,4,Unemployed,2,0,0,0
+0 - 200,6,Critical account,Domestic appliances,10353,500 - 1000,Unemployed,2,Male,No,3,Car or other,57,Stores,Own,4,Unskilled,1,0,1,1
+< 0,36,No credits/all paid,Repairs,17236,< 100,> 7,3,Female,Co-applicant,4,Unknown/None,24,Bank,Rent,2,Skilled,2,0,1,1
+> 200,9,No credits/all paid,Others,12263,Unknown/None,> 7,1,Male,Co-applicant,2,Real estate,74,No,Rent,1,Skilled,2,1,1,1
+> 200,53,All paid,Car (used),940,Unknown/None,< 1,3,Male,Co-applicant,1,Savings agreement/life insurance,25,Bank,For free,2,Highly skilled,1,0,1,1
+< 0,13,Existing paid,Radio/television,17123,500 - 1000,< 1,3,Female,Guarantor,3,Savings agreement/life insurance,70,Bank,For free,4,Unemployed,1,0,0,1
+> 200,8,Critical account,Furniture/equipment,10998,Unknown/None,Unemployed,3,Male,Co-applicant,3,Unknown/None,73,Stores,Rent,3,Skilled,2,0,1,0
+> 200,26,All paid,Education,8274,100 - 500,> 7,3,Female,Guarantor,4,Car or other,48,Stores,For free,1,Highly skilled,1,0,0,1
+< 0,13,Existing paid,Retraining,16928,500 - 1000,< 1,4,Male,Guarantor,4,Savings agreement/life insurance,29,No,For free,1,Unemployed,1,0,1,0
+No,47,All paid,Domestic appliances,5738,> 1000,1 - 4,3,Female,Guarantor,1,Real estate,65,Bank,Rent,1,Unemployed,2,0,1,1
+< 0,5,Critical account,Repairs,11285,100 - 500,1 - 4,1,Female,Guarantor,3,Real estate,48,No,Own,2,Highly skilled,2,0,1,1
+No,16,No credits/all paid,Business,13105,100 - 500,> 7,1,Female,Co-applicant,2,Savings agreement/life insurance,61,No,For free,2,Skilled,2,1,0,1
+> 200,43,No credits/all paid,Car (used),3067,100 - 500,< 1,3,Female,No,3,Car or other,36,Stores,Rent,3,Skilled,2,1,1,1
+> 200,5,Existing paid,Furniture/equipment,4708,> 1000,Unemployed,2,Female,No,2,Car or other,27,Bank,For free,3,Highly skilled,2,1,0,0
+> 200,68,Delay in paying,Furniture/equipment,5557,< 100,Unemployed,4,Male,No,2,Unknown/None,56,Stores,For free,1,Skilled,2,1,0,1
+0 - 200,66,Existing paid,Retraining,9183,Unknown/None,Unemployed,3,Male,Co-applicant,1,Unknown/None,29,No,Rent,3,Highly skilled,1,1,1,1
+No,20,Delay in paying,Education,17313,500 - 1000,1 - 4,3,Male,No,3,Savings agreement/life insurance,37,No,For free,2,Skilled,1,0,0,0
+0 - 200,12,All paid,Vacation,10909,< 100,< 1,3,Female,Co-applicant,2,Unknown/None,54,Stores,For free,3,Skilled,1,0,1,0
+0 - 200,18,All paid,Others,5988,500 - 1000,< 1,2,Male,Co-applicant,4,Unknown/None,65,Stores,For free,2,Highly skilled,2,0,0,1
+< 0,27,Critical account,Business,5918,Unknown/None,1 - 4,2,Female,Co-applicant,2,Unknown/None,58,Stores,Own,3,Highly skilled,2,0,0,1
+0 - 200,41,Delay in paying,Others,14677,> 1000,Unemployed,2,Female,No,4,Real estate,24,Stores,Own,4,Skilled,1,1,0,0
+< 0,38,Critical account,Retraining,7947,100 - 500,Unemployed,4,Male,No,4,Unknown/None,69,Stores,For free,2,Highly skilled,1,1,0,0
+< 0,52,No credits/all paid,Repairs,16696,100 - 500,> 7,1,Female,No,3,Savings agreement/life insurance,71,No,Rent,4,Skilled,1,0,1,1
+0 - 200,65,Delay in paying,Radio/television,8079,> 1000,4 - 7,4,Male,Guarantor,4,Car or other,31,Stores,For free,2,Unskilled,2,0,0,1
+No,63,Existing paid,Car (new),11001,< 100,< 1,2,Female,Co-applicant,2,Unknown/None,28,Bank,For free,3,Unemployed,1,1,1,1
+No,53,No credits/all paid,Vacation,13700,< 100,< 1,1,Female,Guarantor,4,Car or other,24,No,Own,4,Unemployed,1,1,0,1
+No,12,No credits/all paid,Education,7602,500 - 1000,< 1,1,Male,Co-applicant,3,Unknown/None,46,No,Own,3,Skilled,1,1,1,0
+No,37,Existing paid,Car (used),13766,> 1000,4 - 7,2,Female,No,1,Savings agreement/life insurance,27,Bank,Own,2,Unemployed,2,0,1,0
+No,38,No credits/all paid,Vacation,8576,< 100,> 7,2,Male,Co-applicant,2,Real estate,46,Bank,For free,4,Skilled,1,0,0,1
+0 - 200,4,Delay in paying,Domestic appliances,3894,> 1000,4 - 7,4,Female,Co-applicant,2,Savings agreement/life insurance,26,No,For free,1,Highly skilled,1,1,0,0
+0 - 200,43,Critical account,Education,8253,Unknown/None,Unemployed,2,Male,Guarantor,3,Real estate,53,Stores,Rent,3,Unskilled,2,1,1,1
+> 200,67,No credits/all paid,Radio/television,3528,100 - 500,Unemployed,1,Female,Co-applicant,3,Unknown/None,65,No,For free,2,Unemployed,2,0,0,1
+No,25,Delay in paying,Domestic appliances,7546,100 - 500,< 1,3,Male,No,3,Unknown/None,27,No,For free,4,Unemployed,2,0,0,0
+0 - 200,63,All paid,Vacation,3324,100 - 500,1 - 4,2,Male,Co-applicant,3,Real estate,36,Bank,Own,3,Highly skilled,2,0,0,1
+> 200,67,Delay in paying,Car (new),13511,> 1000,< 1,2,Female,Co-applicant,2,Savings agreement/life insurance,73,No,Own,4,Unskilled,2,0,0,1
+No,14,Critical account,Car (new),11423,> 1000,1 - 4,4,Male,Co-applicant,1,Savings agreement/life insurance,48,Stores,Own,3,Unskilled,1,1,0,1
+< 0,17,Delay in paying,Radio/television,8562,500 - 1000,4 - 7,4,Female,Guarantor,4,Real estate,34,Bank,Own,3,Unskilled,1,1,0,1
+> 200,63,Existing paid,Furniture/equipment,1887,100 - 500,Unemployed,2,Female,Co-applicant,4,Unknown/None,26,No,Own,3,Highly skilled,2,1,0,1
+0 - 200,33,Critical account,Business,13902,500 - 1000,1 - 4,1,Male,Co-applicant,1,Real estate,62,No,Rent,4,Unemployed,2,0,0,1
+< 0,38,All paid,Car (used),5353,100 - 500,4 - 7,1,Male,Guarantor,1,Unknown/None,50,Stores,Rent,4,Unemployed,2,0,0,1
+< 0,40,Existing paid,Furniture/equipment,17278,500 - 1000,Unemployed,3,Male,Guarantor,1,Real estate,51,No,Rent,3,Unskilled,2,0,1,1
+< 0,8,Delay in paying,Others,2282,500 - 1000,1 - 4,2,Male,Guarantor,3,Unknown/None,62,No,Own,1,Highly skilled,1,1,0,1
+> 200,29,Critical account,Others,3011,Unknown/None,< 1,4,Male,Guarantor,2,Real estate,41,No,Own,1,Highly skilled,1,1,0,0
+0 - 200,65,All paid,Others,15445,500 - 1000,< 1,1,Female,No,2,Car or other,26,No,Own,1,Highly skilled,2,1,0,1
+< 0,7,Existing paid,Car (new),16875,> 1000,< 1,3,Male,No,2,Unknown/None,24,Stores,Rent,2,Unskilled,2,0,0,0
+No,45,All paid,Car (new),2918,500 - 1000,4 - 7,2,Female,Co-applicant,3,Savings agreement/life insurance,33,No,Own,1,Highly skilled,2,0,0,1
+< 0,21,Delay in paying,Repairs,14888,100 - 500,< 1,1,Male,No,2,Real estate,36,No,Rent,4,Unskilled,2,1,1,1
+< 0,43,All paid,Domestic appliances,16204,500 - 1000,> 7,2,Male,Co-applicant,3,Savings agreement/life insurance,56,No,Own,1,Unskilled,1,0,1,0
+> 200,42,No credits/all paid,Vacation,17436,< 100,Unemployed,2,Male,No,2,Real estate,23,Bank,For free,4,Unskilled,2,1,0,1
+> 200,17,Existing paid,Car (used),12606,100 - 500,4 - 7,1,Female,Guarantor,1,Savings agreement/life insurance,67,Stores,Rent,2,Skilled,2,1,1,1
+0 - 200,35,All paid,Radio/television,445,< 100,< 1,1,Male,Guarantor,4,Savings agreement/life insurance,68,Bank,For free,4,Unskilled,1,1,0,1
+No,54,Delay in paying,Vacation,2437,100 - 500,Unemployed,1,Female,No,4,Real estate,28,Bank,Rent,4,Highly skilled,2,1,0,0
+> 200,41,Delay in paying,Repairs,11957,> 1000,1 - 4,2,Female,No,3,Real estate,29,Stores,Own,4,Skilled,1,0,1,1
+< 0,26,All paid,Car (new),2580,> 1000,< 1,2,Female,Co-applicant,2,Savings agreement/life insurance,59,Bank,Own,1,Unemployed,2,0,1,1
+0 - 200,66,Delay in paying,Radio/television,3856,> 1000,Unemployed,3,Male,Co-applicant,4,Savings agreement/life insurance,30,Bank,For free,3,Unemployed,2,0,1,1
+< 0,18,Critical account,Car (new),310,< 100,> 7,4,Female,Co-applicant,1,Savings agreement/life insurance,29,Bank,Own,4,Highly skilled,1,0,1,1
+< 0,28,Critical account,Car (used),14637,Unknown/None,1 - 4,2,Male,Guarantor,1,Unknown/None,38,Stores,Rent,1,Highly skilled,2,0,1,1
+> 200,20,Critical account,Domestic appliances,4177,100 - 500,> 7,4,Female,Guarantor,1,Unknown/None,27,No,Own,1,Highly skilled,1,0,0,0
+0 - 200,69,No credits/all paid,Vacation,6546,> 1000,Unemployed,1,Male,Guarantor,3,Car or other,37,Stores,Own,1,Highly skilled,1,1,0,1
+No,56,All paid,Vacation,13872,100 - 500,> 7,2,Female,Guarantor,3,Unknown/None,67,Stores,Rent,3,Skilled,1,0,0,1
+No,54,No credits/all paid,Others,14375,< 100,Unemployed,3,Male,Co-applicant,2,Unknown/None,53,Stores,For free,3,Highly skilled,2,0,1,1
+> 200,42,Delay in paying,Furniture/equipment,2841,Unknown/None,Unemployed,3,Male,Guarantor,1,Real estate,45,Bank,For free,3,Unskilled,2,0,0,1
+> 200,54,No credits/all paid,Others,12377,< 100,> 7,4,Male,Guarantor,2,Car or other,41,No,Own,3,Unemployed,1,1,1,1
+0 - 200,9,Delay in paying,Radio/television,15998,100 - 500,Unemployed,1,Female,Guarantor,2,Car or other,22,Stores,Rent,2,Highly skilled,2,0,0,1
+No,70,Delay in paying,Business,6371,Unknown/None,< 1,4,Female,Guarantor,1,Unknown/None,54,Stores,For free,3,Unskilled,2,1,1,1
+No,10,Existing paid,Others,1450,Unknown/None,Unemployed,1,Male,No,2,Real estate,29,No,For free,3,Highly skilled,2,0,1,1
+No,54,Critical account,Repairs,15971,< 100,4 - 7,3,Female,Co-applicant,4,Real estate,52,No,Own,3,Unskilled,1,0,0,1
+< 0,45,Delay in paying,Others,11337,> 1000,Unemployed,4,Female,Co-applicant,3,Car or other,57,No,Rent,4,Skilled,1,0,0,1
+No,67,Existing paid,Others,7222,100 - 500,4 - 7,3,Female,Guarantor,2,Real estate,71,Bank,For free,4,Unemployed,2,1,0,1
+< 0,18,Critical account,Business,386,500 - 1000,Unemployed,3,Female,No,1,Savings agreement/life insurance,19,No,Own,3,Unemployed,1,1,0,0
+0 - 200,32,Delay in paying,Furniture/equipment,17663,500 - 1000,Unemployed,1,Female,Co-applicant,3,Unknown/None,67,Bank,Own,2,Skilled,2,0,1,0
+< 0,36,Delay in paying,Car (used),15596,< 100,> 7,4,Female,Co-applicant,3,Savings agreement/life insurance,58,Stores,Own,4,Unskilled,2,0,0,1
+0 - 200,30,No credits/all paid,Repairs,911,100 - 500,< 1,4,Female,Guarantor,2,Car or other,62,Bank,Own,1,Highly skilled,2,0,1,1
+No,39,No credits/all paid,Others,2722,100 - 500,< 1,3,Male,Guarantor,4,Car or other,56,No,For free,4,Unskilled,1,1,0,0
+No,32,Critical account,Domestic appliances,336,< 100,1 - 4,3,Male,Co-applicant,2,Real estate,59,Bank,Rent,1,Unemployed,1,1,0,0
+0 - 200,41,Delay in paying,Business,10954,100 - 500,> 7,1,Female,Co-applicant,4,Real estate,26,No,Own,4,Skilled,2,0,0,1
+> 200,60,All paid,Domestic appliances,6469,> 1000,> 7,2,Male,No,3,Car or other,39,Bank,Own,3,Skilled,1,1,0,1
+0 - 200,30,No credits/all paid,Business,16572,< 100,< 1,2,Male,Co-applicant,2,Car or other,64,Stores,For free,4,Unskilled,2,1,0,0
+> 200,58,Critical account,Domestic appliances,14999,> 1000,> 7,3,Male,Co-applicant,1,Savings agreement/life insurance,22,Bank,Own,3,Unskilled,1,1,1,0
+< 0,36,Delay in paying,Business,7218,100 - 500,< 1,2,Female,Guarantor,2,Savings agreement/life insurance,29,Stores,Own,3,Skilled,1,1,0,1
+< 0,71,Delay in paying,Domestic appliances,13846,< 100,> 7,2,Female,Co-applicant,4,Real estate,18,No,Rent,4,Unemployed,1,0,1,1
+< 0,69,All paid,Furniture/equipment,1950,100 - 500,Unemployed,2,Female,Guarantor,4,Savings agreement/life insurance,61,Stores,Own,1,Highly skilled,2,0,0,1
+No,13,Critical account,Education,2950,< 100,< 1,2,Female,Co-applicant,2,Real estate,39,No,For free,1,Highly skilled,2,1,1,0
+< 0,8,Delay in paying,Repairs,12071,100 - 500,< 1,3,Female,Co-applicant,4,Real estate,55,No,Rent,4,Unskilled,2,1,0,1
+> 200,41,No credits/all paid,Radio/television,5770,> 1000,4 - 7,2,Male,Co-applicant,3,Unknown/None,68,Stores,For free,3,Skilled,1,1,0,1
+< 0,16,All paid,Car (used),11760,> 1000,> 7,2,Female,No,2,Real estate,36,Stores,Rent,1,Skilled,2,0,0,1
+0 - 200,34,Critical account,Retraining,3937,100 - 500,> 7,1,Male,Guarantor,4,Savings agreement/life insurance,33,Bank,Rent,2,Skilled,2,0,1,1
+0 - 200,50,All paid,Car (new),17230,< 100,< 1,3,Female,No,2,Car or other,48,Bank,Own,3,Unemployed,2,1,1,1
+No,55,No credits/all paid,Others,9087,500 - 1000,Unemployed,4,Male,Co-applicant,2,Car or other,68,Stores,Own,4,Unskilled,2,1,0,1
+0 - 200,59,Critical account,Radio/television,15205,> 1000,Unemployed,4,Female,No,1,Savings agreement/life insurance,20,Stores,Own,3,Unskilled,1,1,0,1
+> 200,18,All paid,Car (new),11531,> 1000,Unemployed,1,Female,Guarantor,2,Car or other,40,Stores,For free,2,Unskilled,1,1,0,0
+< 0,32,Existing paid,Repairs,14167,500 - 1000,> 7,1,Female,Co-applicant,1,Real estate,59,Stores,Own,2,Unemployed,2,0,1,1
+No,11,No credits/all paid,Radio/television,5007,100 - 500,4 - 7,3,Female,No,4,Car or other,35,No,Own,1,Unskilled,1,0,0,1
+< 0,8,No credits/all paid,Domestic appliances,13295,< 100,< 1,4,Female,No,1,Savings agreement/life insurance,43,Stores,Rent,2,Highly skilled,1,0,1,1
+< 0,32,No credits/all paid,Domestic appliances,9162,100 - 500,1 - 4,2,Female,Guarantor,1,Car or other,30,Stores,Own,3,Unskilled,1,0,0,1
+> 200,50,Existing paid,Retraining,4983,Unknown/None,4 - 7,1,Male,No,1,Real estate,35,Stores,Own,1,Unskilled,1,0,1,1
+0 - 200,71,Existing paid,Car (new),7331,> 1000,1 - 4,4,Female,Guarantor,3,Real estate,20,Stores,Own,2,Unskilled,1,0,1,1
+0 - 200,48,Delay in paying,Car (used),8940,Unknown/None,4 - 7,3,Male,Co-applicant,1,Savings agreement/life insurance,40,No,Own,1,Unemployed,2,1,1,1
+< 0,5,All paid,Repairs,1923,> 1000,Unemployed,2,Female,Co-applicant,2,Savings agreement/life insurance,20,Bank,Rent,1,Highly skilled,1,1,0,1
+No,30,Delay in paying,Domestic appliances,14568,> 1000,> 7,3,Male,No,1,Savings agreement/life insurance,72,Bank,Own,4,Highly skilled,2,0,1,0
+0 - 200,39,All paid,Others,11421,Unknown/None,1 - 4,1,Male,Co-applicant,2,Unknown/None,42,Bank,Rent,1,Skilled,2,0,0,1
+No,39,Existing paid,Education,13795,Unknown/None,4 - 7,4,Male,Co-applicant,1,Unknown/None,44,Bank,For free,1,Skilled,2,0,1,1
+0 - 200,29,Existing paid,Furniture/equipment,12053,100 - 500,> 7,4,Male,No,3,Real estate,61,Bank,Own,2,Highly skilled,1,1,0,1
+No,46,Delay in paying,Furniture/equipment,2544,Unknown/None,1 - 4,4,Male,Co-applicant,4,Unknown/None,44,No,Own,3,Unskilled,1,1,1,1
+> 200,30,Critical account,Business,3880,100 - 500,< 1,4,Male,No,1,Unknown/None,69,Bank,Own,3,Unskilled,1,1,1,1
+No,23,Delay in paying,Car (used),15343,100 - 500,4 - 7,2,Female,Guarantor,1,Car or other,56,No,Rent,2,Unskilled,1,1,0,0
+> 200,14,All paid,Furniture/equipment,16780,100 - 500,< 1,2,Male,Guarantor,3,Unknown/None,42,No,Own,3,Unemployed,2,0,0,1
+> 200,41,Delay in paying,Business,14703,> 1000,Unemployed,3,Female,Guarantor,1,Car or other,41,Bank,Own,1,Unskilled,2,1,1,1
+No,9,No credits/all paid,Car (new),12424,> 1000,< 1,2,Female,No,2,Savings agreement/life insurance,25,Bank,For free,4,Unemployed,2,0,1,0
+> 200,26,All paid,Domestic appliances,3703,Unknown/None,< 1,1,Male,No,1,Car or other,26,Bank,Rent,1,Highly skilled,1,1,0,1
+< 0,50,All paid,Domestic appliances,4757,> 1000,4 - 7,1,Male,Co-applicant,1,Car or other,63,Stores,Rent,1,Unskilled,2,1,1,1
+> 200,49,Critical account,Others,10852,Unknown/None,Unemployed,4,Female,Co-applicant,4,Savings agreement/life insurance,54,No,For free,4,Unskilled,2,1,1,1
+0 - 200,15,Existing paid,Education,5878,> 1000,< 1,1,Male,Co-applicant,4,Savings agreement/life insurance,47,Bank,Rent,2,Skilled,2,1,0,0
+No,16,All paid,Radio/television,8578,< 100,> 7,3,Male,Co-applicant,1,Real estate,70,Stores,Own,1,Highly skilled,1,0,0,0
+< 0,65,Existing paid,Furniture/equipment,15784,< 100,1 - 4,2,Male,Co-applicant,3,Real estate,36,No,Own,1,Unskilled,2,0,0,1
+No,63,Delay in paying,Car (new),3802,Unknown/None,< 1,2,Male,No,4,Real estate,70,Stores,For free,2,Unemployed,2,0,1,1
+0 - 200,46,No credits/all paid,Vacation,16652,> 1000,Unemployed,2,Male,No,1,Real estate,33,Stores,Rent,1,Highly skilled,1,0,1,1
+0 - 200,71,Critical account,Furniture/equipment,2492,> 1000,< 1,1,Male,Guarantor,4,Car or other,41,Bank,Rent,1,Skilled,2,0,1,1
+0 - 200,8,Existing paid,Car (used),14915,100 - 500,1 - 4,2,Male,Guarantor,1,Car or other,61,No,Rent,3,Highly skilled,1,0,0,1
+> 200,40,All paid,Others,5347,500 - 1000,Unemployed,4,Female,Guarantor,4,Real estate,38,Stores,For free,2,Unemployed,2,0,1,1
+> 200,34,Existing paid,Radio/television,8890,Unknown/None,4 - 7,4,Male,Guarantor,4,Unknown/None,53,No,Own,1,Skilled,1,1,0,1
+No,12,All paid,Furniture/equipment,2198,500 - 1000,Unemployed,4,Female,No,2,Real estate,57,Bank,For free,1,Unemployed,1,0,0,0
+No,54,Existing paid,Car (new),5868,500 - 1000,4 - 7,1,Female,No,1,Unknown/None,56,No,Own,4,Highly skilled,1,1,1,0
+< 0,32,All paid,Furniture/equipment,4486,Unknown/None,Unemployed,2,Female,No,1,Savings agreement/life insurance,64,Stores,For free,4,Skilled,2,0,0,1
+< 0,43,Delay in paying,Car (used),2170,> 1000,1 - 4,1,Female,Co-applicant,1,Car or other,23,Stores,Own,4,Unemployed,2,1,1,1
+No,44,All paid,Vacation,11419,Unknown/None,1 - 4,2,Male,Co-applicant,1,Car or other,22,No,Rent,1,Highly skilled,1,0,0,1
+> 200,14,All paid,Repairs,4438,500 - 1000,Unemployed,3,Female,Guarantor,4,Unknown/None,31,Stores,Rent,1,Unemployed,1,1,0,1
+0 - 200,26,No credits/all paid,Retraining,12457,> 1000,< 1,3,Female,Co-applicant,2,Real estate,70,Stores,Rent,4,Unskilled,1,0,0,1
+No,4,All paid,Vacation,488,< 100,1 - 4,1,Female,No,2,Car or other,62,Stores,For free,3,Highly skilled,1,0,1,1
+< 0,49,No credits/all paid,Business,454,Unknown/None,4 - 7,4,Female,Guarantor,3,Unknown/None,59,Bank,For free,3,Skilled,1,0,0,1
+> 200,24,Critical account,Furniture/equipment,11049,Unknown/None,4 - 7,1,Female,Guarantor,1,Savings agreement/life insurance,67,Bank,For free,3,Skilled,1,0,1,1
+No,39,No credits/all paid,Domestic appliances,5802,> 1000,> 7,4,Male,Co-applicant,3,Savings agreement/life insurance,21,Stores,Rent,3,Unskilled,1,1,0,0
+No,57,Delay in paying,Education,5177,< 100,4 - 7,2,Male,Guarantor,4,Car or other,25,No,Own,2,Unemployed,1,0,0,1
+> 200,60,No credits/all paid,Domestic appliances,11414,< 100,> 7,4,Female,Co-applicant,3,Real estate,41,Bank,Rent,4,Unemployed,1,0,0,1
+No,4,Critical account,Vacation,4640,> 1000,Unemployed,4,Male,Co-applicant,1,Unknown/None,28,No,Rent,1,Skilled,1,1,1,0
+> 200,66,Delay in paying,Domestic appliances,15891,100 - 500,Unemployed,2,Male,Guarantor,2,Car or other,34,Stores,Own,4,Unemployed,1,0,1,1
+0 - 200,57,Existing paid,Car (new),6410,Unknown/None,Unemployed,3,Female,Co-applicant,2,Savings agreement/life insurance,67,Stores,Own,3,Highly skilled,1,1,1,1
+> 200,58,Existing paid,Domestic appliances,16060,Unknown/None,< 1,2,Female,Co-applicant,1,Real estate,38,No,Own,1,Highly skilled,2,1,1,1
+> 200,43,No credits/all paid,Radio/television,5376,500 - 1000,< 1,1,Female,Co-applicant,4,Unknown/None,74,Bank,Own,2,Skilled,1,0,1,1
+> 200,18,No credits/all paid,Repairs,1066,> 1000,> 7,1,Male,Co-applicant,1,Car or other,43,No,Rent,4,Highly skilled,2,0,0,0
+No,24,Critical account,Furniture/equipment,13664,500 - 1000,4 - 7,1,Female,Guarantor,4,Unknown/None,60,No,For free,1,Skilled,2,1,0,1
+No,50,Critical account,Others,442,500 - 1000,4 - 7,1,Male,No,2,Real estate,65,Stores,Rent,1,Unemployed,2,0,1,1
+> 200,56,All paid,Domestic appliances,3895,< 100,Unemployed,1,Male,No,4,Real estate,61,Bank,Own,3,Unemployed,1,1,1,1
+No,12,Critical account,Car (used),13066,Unknown/None,1 - 4,3,Male,Co-applicant,1,Savings agreement/life insurance,62,No,For free,3,Unemployed,2,0,1,1
+< 0,55,All paid,Others,6564,500 - 1000,< 1,3,Female,Co-applicant,1,Real estate,44,Bank,For free,4,Unskilled,1,0,1,1
+< 0,60,Delay in paying,Repairs,7624,< 100,< 1,4,Male,Co-applicant,1,Car or other,33,Stores,Rent,2,Skilled,2,1,0,1
+No,29,No credits/all paid,Repairs,3950,> 1000,Unemployed,1,Female,No,4,Unknown/None,72,Bank,Rent,1,Highly skilled,1,0,1,1
+No,44,Delay in paying,Domestic appliances,10905,500 - 1000,< 1,2,Female,Co-applicant,4,Real estate,43,Stores,Rent,3,Unemployed,1,0,1,0
+> 200,38,Critical account,Repairs,15379,Unknown/None,Unemployed,1,Female,Guarantor,4,Real estate,70,Bank,For free,4,Unskilled,2,0,1,1
+0 - 200,66,Delay in paying,Others,9609,500 - 1000,> 7,3,Female,Guarantor,2,Car or other,50,No,For free,3,Highly skilled,2,1,1,1
+No,28,Delay in paying,Education,4143,> 1000,4 - 7,1,Female,Guarantor,3,Unknown/None,48,Stores,For free,4,Highly skilled,1,0,0,1
+< 0,41,Delay in paying,Domestic appliances,7061,500 - 1000,1 - 4,3,Male,No,3,Unknown/None,65,No,Own,3,Highly skilled,2,1,0,1
+> 200,5,Critical account,Car (new),9538,Unknown/None,4 - 7,4,Male,Co-applicant,1,Savings agreement/life insurance,64,Stores,Own,2,Unemployed,1,0,1,1
+No,10,Delay in paying,Vacation,754,< 100,4 - 7,4,Male,Co-applicant,2,Savings agreement/life insurance,23,Bank,Rent,1,Highly skilled,1,1,0,0
+< 0,37,All paid,Radio/television,10063,Unknown/None,> 7,4,Male,Co-applicant,4,Unknown/None,61,Bank,For free,3,Skilled,1,0,0,0
+< 0,20,Critical account,Retraining,14921,< 100,< 1,3,Male,No,1,Car or other,25,Stores,Rent,1,Unskilled,2,0,1,1
+0 - 200,46,Delay in paying,Business,10988,100 - 500,1 - 4,1,Female,No,2,Car or other,24,Stores,For free,4,Highly skilled,1,1,1,1
+> 200,62,Critical account,Repairs,11436,Unknown/None,< 1,1,Female,No,1,Savings agreement/life insurance,51,Stores,Rent,2,Highly skilled,1,0,0,1
+> 200,54,Existing paid,Car (new),7023,Unknown/None,4 - 7,2,Male,No,2,Real estate,61,Bank,Own,1,Skilled,1,1,0,1
+0 - 200,57,All paid,Furniture/equipment,4066,> 1000,Unemployed,3,Male,Guarantor,2,Car or other,70,Stores,For free,3,Highly skilled,1,0,0,1
+0 - 200,27,Delay in paying,Furniture/equipment,967,500 - 1000,4 - 7,2,Male,No,3,Real estate,31,Stores,Own,1,Unemployed,2,1,0,1
+> 200,28,Existing paid,Business,11926,< 100,< 1,4,Female,No,1,Car or other,33,No,For free,1,Unemployed,2,0,0,1
+> 200,55,Existing paid,Radio/television,4684,< 100,4 - 7,1,Female,No,4,Unknown/None,60,Stores,Rent,4,Unemployed,2,1,1,1
+No,36,Critical account,Repairs,17292,> 1000,Unemployed,3,Female,Co-applicant,3,Savings agreement/life insurance,69,No,For free,2,Highly skilled,2,0,0,0
+No,52,Existing paid,Education,5307,> 1000,> 7,2,Male,Co-applicant,3,Real estate,26,No,Own,2,Unskilled,1,1,0,1
+0 - 200,32,All paid,Business,5244,500 - 1000,< 1,2,Male,Co-applicant,4,Real estate,27,No,For free,1,Unskilled,1,1,0,1
+No,66,All paid,Radio/television,4484,500 - 1000,4 - 7,2,Male,Guarantor,2,Unknown/None,34,Bank,Rent,1,Highly skilled,1,0,0,1
+< 0,25,No credits/all paid,Repairs,4014,Unknown/None,< 1,1,Male,Guarantor,4,Car or other,29,No,For free,4,Unskilled,1,1,0,0
+No,29,All paid,Others,11431,100 - 500,> 7,1,Female,No,1,Real estate,23,Stores,Own,1,Unskilled,1,1,0,0
+No,31,Existing paid,Car (new),4887,500 - 1000,4 - 7,1,Male,Co-applicant,4,Car or other,36,Bank,Rent,4,Highly skilled,1,0,0,1
+< 0,52,All paid,Vacation,2354,> 1000,4 - 7,3,Male,Guarantor,2,Unknown/None,60,Bank,Own,2,Unemployed,2,0,0,0
+0 - 200,52,Critical account,Education,9697,500 - 1000,< 1,1,Male,Co-applicant,4,Savings agreement/life insurance,58,Bank,For free,2,Highly skilled,1,0,1,1
+< 0,23,No credits/all paid,Others,10924,< 100,< 1,3,Female,Guarantor,2,Real estate,70,Bank,Own,4,Unemployed,1,0,1,1
+No,66,Existing paid,Others,8635,100 - 500,Unemployed,2,Female,Guarantor,2,Car or other,46,Bank,For free,1,Unemployed,1,0,0,1
+0 - 200,64,No credits/all paid,Retraining,12249,Unknown/None,> 7,2,Male,No,1,Real estate,23,Bank,Rent,2,Unskilled,2,0,1,1
+No,52,Existing paid,Furniture/equipment,3969,< 100,Unemployed,4,Female,No,4,Car or other,42,Bank,Own,3,Unskilled,1,1,1,0
+< 0,4,Critical account,Car (used),2831,< 100,4 - 7,1,Female,Guarantor,4,Car or other,74,No,Own,4,Unemployed,1,1,1,1
+< 0,16,No credits/all paid,Car (new),3013,100 - 500,< 1,2,Female,No,1,Car or other,41,Stores,For free,2,Unemployed,1,1,1,1
+No,54,Delay in paying,Furniture/equipment,6241,Unknown/None,4 - 7,1,Female,Guarantor,2,Unknown/None,42,Stores,Own,2,Unskilled,2,0,1,0
+> 200,59,Existing paid,Domestic appliances,10781,> 1000,4 - 7,3,Female,Guarantor,4,Savings agreement/life insurance,33,No,Own,2,Skilled,1,0,1,1
+> 200,65,Delay in paying,Others,11314,Unknown/None,1 - 4,2,Male,Co-applicant,1,Real estate,69,No,Rent,3,Unemployed,1,1,0,1
+< 0,35,No credits/all paid,Car (used),11562,500 - 1000,1 - 4,1,Male,No,2,Savings agreement/life insurance,33,Bank,For free,3,Unemployed,2,1,0,1
+< 0,33,Delay in paying,Furniture/equipment,5030,< 100,4 - 7,2,Male,No,1,Car or other,23,Bank,For free,3,Unemployed,1,0,1,1
+> 200,32,Delay in paying,Radio/television,4427,500 - 1000,< 1,2,Female,No,4,Car or other,54,No,Rent,1,Unskilled,2,1,0,1
+> 200,52,No credits/all paid,Education,15419,> 1000,4 - 7,1,Female,Co-applicant,1,Savings agreement/life insurance,38,Bank,Rent,4,Highly skilled,1,0,1,0
+No,48,Critical account,Furniture/equipment,6726,500 - 1000,1 - 4,2,Female,Co-applicant,3,Savings agreement/life insurance,21,Stores,For free,1,Unemployed,2,0,0,1
+No,33,Delay in paying,Retraining,2632,Unknown/None,< 1,2,Female,Co-applicant,2,Real estate,51,Stores,Rent,3,Unemployed,1,1,0,1
+> 200,19,Delay in paying,Vacation,17165,500 - 1000,4 - 7,2,Male,No,3,Car or other,45,Bank,Rent,4,Unemployed,1,0,0,1
+No,43,Critical account,Radio/television,12758,> 1000,> 7,2,Male,No,3,Savings agreement/life insurance,55,Bank,Rent,1,Highly skilled,2,0,1,1
+No,22,Delay in paying,Car (new),884,> 1000,> 7,3,Male,No,2,Unknown/None,58,Bank,For free,1,Highly skilled,1,0,0,1
+0 - 200,21,Delay in paying,Car (new),12246,> 1000,4 - 7,2,Male,Co-applicant,2,Car or other,45,Stores,Rent,1,Unemployed,1,0,0,0
+No,4,Delay in paying,Car (new),14412,Unknown/None,< 1,4,Male,Co-applicant,1,Car or other,34,Bank,Own,3,Unemployed,2,1,1,0
+< 0,50,All paid,Car (new),16636,> 1000,4 - 7,2,Male,Guarantor,2,Real estate,31,No,Own,2,Skilled,1,0,1,1
+No,69,Critical account,Vacation,14255,< 100,4 - 7,1,Female,Co-applicant,3,Unknown/None,24,Bank,For free,4,Highly skilled,2,0,0,1
+No,41,Delay in paying,Furniture/equipment,8647,> 1000,1 - 4,4,Female,Guarantor,3,Real estate,39,No,Rent,3,Skilled,1,1,1,1
+> 200,54,Critical account,Repairs,12577,500 - 1000,> 7,3,Male,No,4,Unknown/None,68,Bank,Own,4,Unemployed,2,0,0,1
+< 0,66,Existing paid,Furniture/equipment,14644,500 - 1000,1 - 4,4,Female,Co-applicant,2,Real estate,18,Bank,For free,3,Unemployed,1,0,0,1
+No,7,Existing paid,Others,3140,500 - 1000,1 - 4,4,Male,No,3,Unknown/None,46,Stores,Own,1,Unemployed,1,1,1,0
+No,4,Delay in paying,Domestic appliances,11108,Unknown/None,4 - 7,4,Male,No,4,Unknown/None,69,No,Rent,1,Unemployed,2,1,1,1
+0 - 200,11,Critical account,Education,8276,500 - 1000,1 - 4,1,Female,No,4,Unknown/None,48,No,For free,2,Unskilled,1,0,0,0
+No,32,Critical account,Car (used),3556,Unknown/None,> 7,1,Male,No,1,Savings agreement/life insurance,47,No,Own,2,Unskilled,2,0,1,1
+No,58,Critical account,Repairs,1147,Unknown/None,1 - 4,1,Male,Co-applicant,3,Car or other,74,Stores,For free,4,Unskilled,2,1,0,1
+0 - 200,6,All paid,Repairs,9527,> 1000,> 7,3,Male,No,1,Unknown/None,32,No,Own,2,Skilled,2,0,1,0
+> 200,35,Existing paid,Others,9721,< 100,1 - 4,1,Female,Guarantor,3,Savings agreement/life insurance,35,Stores,Own,2,Highly skilled,1,0,1,1
+No,13,Critical account,Furniture/equipment,15146,> 1000,> 7,1,Female,Co-applicant,1,Savings agreement/life insurance,52,Bank,Rent,4,Unemployed,1,0,1,1
+0 - 200,37,Critical account,Repairs,15490,> 1000,1 - 4,4,Female,No,1,Real estate,67,Bank,Rent,3,Highly skilled,1,1,1,1
+< 0,58,All paid,Business,14933,Unknown/None,1 - 4,1,Female,Co-applicant,2,Car or other,47,No,Own,2,Unskilled,2,0,1,1
+> 200,35,All paid,Business,920,Unknown/None,< 1,2,Male,Guarantor,1,Car or other,51,Bank,For free,3,Unemployed,2,1,0,1
+< 0,53,Critical account,Domestic appliances,12017,500 - 1000,> 7,1,Female,No,2,Real estate,59,Bank,For free,1,Unemployed,2,1,0,1
+< 0,10,No credits/all paid,Car (used),13256,500 - 1000,> 7,3,Female,Guarantor,4,Car or other,28,No,Rent,2,Skilled,1,1,0,1
+0 - 200,11,Critical account,Retraining,16018,> 1000,> 7,3,Female,No,3,Real estate,44,Bank,Own,1,Highly skilled,2,1,1,1
+No,68,Critical account,Vacation,16883,100 - 500,Unemployed,2,Male,Guarantor,4,Savings agreement/life insurance,41,No,Rent,1,Skilled,1,0,0,1
+0 - 200,60,All paid,Furniture/equipment,2142,100 - 500,1 - 4,3,Female,No,3,Savings agreement/life insurance,52,No,Own,3,Unskilled,1,1,0,1
+0 - 200,70,All paid,Vacation,3689,500 - 1000,> 7,3,Female,Co-applicant,4,Unknown/None,56,Bank,Own,4,Highly skilled,1,0,1,1
+0 - 200,62,Critical account,Retraining,3104,100 - 500,Unemployed,4,Male,No,3,Real estate,25,Bank,Rent,2,Unskilled,1,1,1,1
+0 - 200,57,Critical account,Furniture/equipment,11827,500 - 1000,< 1,2,Male,Co-applicant,1,Savings agreement/life insurance,68,Bank,For free,3,Skilled,1,1,1,1
+> 200,70,Critical account,Furniture/equipment,12013,Unknown/None,> 7,4,Male,No,3,Savings agreement/life insurance,35,Bank,Rent,4,Skilled,1,0,0,1
+No,54,All paid,Car (used),11868,> 1000,> 7,4,Male,No,3,Real estate,30,Bank,Own,1,Unemployed,1,1,0,1
+< 0,11,Critical account,Vacation,8485,< 100,Unemployed,1,Female,Guarantor,4,Savings agreement/life insurance,62,Stores,Rent,2,Highly skilled,1,1,1,1
+< 0,37,Critical account,Business,2868,> 1000,1 - 4,2,Male,Guarantor,4,Car or other,41,Bank,For free,1,Highly skilled,2,0,0,1
+No,38,Delay in paying,Car (new),3413,500 - 1000,< 1,1,Female,Guarantor,4,Savings agreement/life insurance,68,Stores,For free,1,Unemployed,1,1,0,1
+< 0,35,No credits/all paid,Vacation,3192,500 - 1000,> 7,1,Female,No,2,Real estate,40,No,Own,2,Highly skilled,1,1,1,1
+No,49,Existing paid,Education,2175,> 1000,1 - 4,4,Female,No,2,Car or other,29,Bank,Rent,4,Unskilled,2,1,0,1
+< 0,19,No credits/all paid,Education,3222,500 - 1000,< 1,3,Female,No,3,Car or other,66,Bank,For free,4,Unskilled,2,0,1,1
+0 - 200,71,Delay in paying,Furniture/equipment,11955,100 - 500,4 - 7,2,Female,Co-applicant,3,Savings agreement/life insurance,47,Bank,Rent,2,Skilled,2,1,0,1
+< 0,40,Existing paid,Car (new),10890,100 - 500,4 - 7,3,Male,Co-applicant,1,Unknown/None,48,No,For free,2,Unskilled,2,0,1,1
+No,57,Critical account,Radio/television,11216,500 - 1000,< 1,4,Female,No,1,Car or other,45,Stores,Own,3,Highly skilled,1,0,0,1
+No,17,Delay in paying,Retraining,17624,500 - 1000,Unemployed,4,Female,Guarantor,3,Real estate,39,Stores,Own,3,Unemployed,2,0,0,1
+No,58,Critical account,Domestic appliances,11388,100 - 500,< 1,4,Female,Guarantor,2,Unknown/None,61,Bank,Rent,1,Skilled,2,1,1,0
+No,51,All paid,Car (new),16185,500 - 1000,< 1,4,Male,Guarantor,3,Unknown/None,45,Bank,Own,2,Unemployed,2,1,1,1
+No,10,Delay in paying,Domestic appliances,13395,500 - 1000,Unemployed,4,Female,No,1,Car or other,30,Bank,For free,4,Skilled,2,1,1,1
+> 200,10,All paid,Vacation,739,> 1000,Unemployed,4,Female,Guarantor,2,Savings agreement/life insurance,42,Bank,Own,1,Skilled,1,1,1,0
+> 200,36,Delay in paying,Vacation,11998,< 100,1 - 4,3,Male,No,2,Unknown/None,61,No,For free,1,Unemployed,2,0,0,1
+< 0,26,Delay in paying,Domestic appliances,3766,100 - 500,1 - 4,1,Female,Co-applicant,1,Savings agreement/life insurance,68,Bank,For free,1,Unskilled,2,0,1,1
+No,22,All paid,Retraining,6660,> 1000,Unemployed,3,Female,Guarantor,3,Car or other,63,No,Own,1,Unskilled,2,1,1,1
+< 0,22,Existing paid,Car (new),303,< 100,4 - 7,2,Male,Co-applicant,4,Real estate,24,Bank,For free,4,Unskilled,2,1,1,0
+No,39,No credits/all paid,Radio/television,17249,500 - 1000,4 - 7,3,Female,Guarantor,3,Unknown/None,62,Stores,For free,1,Unskilled,1,0,1,0
+No,32,Critical account,Furniture/equipment,6194,500 - 1000,< 1,4,Female,No,3,Real estate,23,Stores,Rent,2,Unemployed,2,1,1,0
+> 200,63,Delay in paying,Car (used),7654,> 1000,> 7,3,Female,No,1,Savings agreement/life insurance,41,Bank,Rent,3,Highly skilled,2,1,0,0
+> 200,5,Critical account,Vacation,1204,500 - 1000,< 1,1,Female,No,2,Savings agreement/life insurance,36,Bank,Rent,4,Skilled,2,1,1,0
+0 - 200,4,All paid,Education,10875,Unknown/None,< 1,2,Female,No,1,Real estate,36,No,Own,2,Unemployed,1,1,1,0
+> 200,50,Critical account,Retraining,1879,> 1000,> 7,3,Male,Guarantor,3,Car or other,53,Bank,Rent,2,Unskilled,2,1,1,1
+0 - 200,23,All paid,Car (used),11223,< 100,Unemployed,1,Male,Co-applicant,4,Car or other,68,Bank,For free,2,Unskilled,2,1,0,1
+0 - 200,14,Critical account,Radio/television,7109,> 1000,4 - 7,3,Male,No,4,Unknown/None,26,Bank,Own,3,Unemployed,1,0,0,1
+0 - 200,5,No credits/all paid,Repairs,9091,100 - 500,< 1,2,Female,Guarantor,4,Unknown/None,65,Stores,Own,3,Skilled,2,0,0,0
+0 - 200,70,No credits/all paid,Others,10789,> 1000,> 7,3,Female,Co-applicant,1,Car or other,53,No,Own,3,Unemployed,1,0,1,1
+0 - 200,15,No credits/all paid,Furniture/equipment,12932,500 - 1000,1 - 4,4,Female,No,2,Car or other,55,Stores,Own,2,Unemployed,1,0,1,0
+< 0,23,No credits/all paid,Vacation,3528,500 - 1000,< 1,3,Male,Co-applicant,1,Real estate,57,No,For free,3,Highly skilled,2,1,0,1
+> 200,8,No credits/all paid,Furniture/equipment,6789,Unknown/None,4 - 7,1,Female,No,4,Savings agreement/life insurance,46,Stores,For free,1,Unemployed,2,1,0,0
+0 - 200,40,No credits/all paid,Car (used),17004,Unknown/None,Unemployed,3,Female,Co-applicant,3,Savings agreement/life insurance,41,Bank,Rent,3,Highly skilled,1,0,1,1
+No,41,All paid,Furniture/equipment,1107,Unknown/None,< 1,1,Female,Co-applicant,2,Unknown/None,65,Stores,Own,4,Skilled,1,0,1,1
+> 200,12,Delay in paying,Others,5136,< 100,< 1,2,Male,No,1,Car or other,22,Stores,Rent,2,Unemployed,2,0,1,1
+> 200,56,Critical account,Repairs,13195,Unknown/None,> 7,3,Male,Guarantor,1,Real estate,70,No,For free,2,Unemployed,1,0,0,1
+0 - 200,47,No credits/all paid,Car (used),7735,< 100,1 - 4,2,Female,Co-applicant,2,Unknown/None,71,No,Own,1,Unskilled,1,0,1,1
+< 0,27,All paid,Vacation,13930,Unknown/None,1 - 4,2,Female,No,2,Real estate,59,Stores,For free,3,Unemployed,2,1,1,1
+0 - 200,33,All paid,Car (new),17017,< 100,Unemployed,3,Female,Co-applicant,3,Car or other,72,No,Rent,3,Unskilled,1,1,0,1
+< 0,62,All paid,Education,14647,> 1000,4 - 7,1,Male,Co-applicant,2,Car or other,62,No,For free,4,Unskilled,1,0,0,1
+No,17,Delay in paying,Car (used),10994,> 1000,Unemployed,2,Male,Guarantor,3,Car or other,43,No,Own,1,Unskilled,1,0,0,0
+> 200,12,Critical account,Business,4584,500 - 1000,< 1,2,Male,Co-applicant,4,Savings agreement/life insurance,31,No,Own,4,Skilled,1,1,1,1
+No,43,Delay in paying,Repairs,12476,< 100,< 1,3,Female,Co-applicant,4,Car or other,56,No,Rent,4,Highly skilled,1,1,0,1
+< 0,69,Existing paid,Car (used),13690,100 - 500,1 - 4,3,Male,No,1,Unknown/None,46,Stores,Own,2,Unskilled,1,1,0,1
+< 0,28,All paid,Car (used),15270,500 - 1000,4 - 7,3,Female,No,4,Savings agreement/life insurance,69,No,For free,2,Unemployed,2,0,1,1
+No,25,Existing paid,Business,4501,> 1000,> 7,3,Female,Guarantor,4,Real estate,23,Bank,For free,3,Unemployed,1,1,1,1
+< 0,7,No credits/all paid,Vacation,12430,< 100,4 - 7,3,Male,Co-applicant,3,Unknown/None,24,Stores,For free,3,Unskilled,2,0,0,1
+No,29,No credits/all paid,Car (used),16390,Unknown/None,< 1,4,Female,Co-applicant,1,Unknown/None,54,Stores,For free,4,Unskilled,2,0,1,1
+> 200,61,Delay in paying,Education,1172,100 - 500,> 7,3,Male,Co-applicant,2,Real estate,70,Stores,Rent,3,Unemployed,2,1,0,1
+No,32,Critical account,Furniture/equipment,8207,> 1000,4 - 7,1,Female,Guarantor,1,Savings agreement/life insurance,35,No,For free,4,Unskilled,2,1,1,1
+> 200,40,Existing paid,Vacation,16046,500 - 1000,4 - 7,2,Female,Co-applicant,4,Unknown/None,40,Bank,Rent,3,Highly skilled,2,1,1,1
+No,21,Critical account,Education,1480,< 100,> 7,1,Male,No,2,Unknown/None,61,No,For free,3,Highly skilled,2,0,0,1
+< 0,45,Delay in paying,Vacation,10877,100 - 500,< 1,1,Female,Guarantor,1,Unknown/None,55,Stores,Rent,2,Skilled,2,1,0,1
+No,44,No credits/all paid,Education,10256,< 100,4 - 7,4,Female,No,1,Savings agreement/life insurance,18,Stores,For free,2,Unskilled,2,1,0,1
+< 0,41,Critical account,Others,5183,Unknown/None,> 7,3,Female,No,1,Savings agreement/life insurance,21,Stores,For free,2,Skilled,1,0,1,1
+No,37,Critical account,Repairs,14545,500 - 1000,< 1,2,Female,Guarantor,1,Savings agreement/life insurance,68,Stores,Rent,2,Skilled,2,1,0,0
+No,20,No credits/all paid,Education,16627,< 100,> 7,1,Female,No,3,Unknown/None,61,No,Own,1,Skilled,2,1,1,1
+0 - 200,40,Existing paid,Domestic appliances,453,> 1000,> 7,3,Female,Co-applicant,1,Car or other,64,Bank,Own,2,Unskilled,2,0,1,0
+< 0,28,No credits/all paid,Education,16794,500 - 1000,4 - 7,3,Female,Guarantor,4,Real estate,52,Bank,Own,1,Skilled,1,0,0,1
+0 - 200,30,Critical account,Car (new),16149,> 1000,< 1,4,Female,No,4,Car or other,40,Stores,Rent,2,Highly skilled,2,0,1,1
+< 0,60,Existing paid,Car (new),3998,< 100,4 - 7,4,Male,Co-applicant,3,Savings agreement/life insurance,44,Bank,Own,3,Skilled,1,0,1,1
+0 - 200,34,Existing paid,Retraining,6968,500 - 1000,Unemployed,4,Male,Co-applicant,2,Unknown/None,43,Stores,Own,4,Highly skilled,2,0,0,1
+> 200,9,No credits/all paid,Domestic appliances,1343,> 1000,Unemployed,2,Female,No,2,Unknown/None,69,Stores,Rent,3,Highly skilled,2,1,1,1
+No,43,Critical account,Domestic appliances,15478,Unknown/None,< 1,1,Female,Co-applicant,4,Car or other,25,Bank,Own,3,Unskilled,1,1,1,1
+< 0,15,Delay in paying,Furniture/equipment,16284,Unknown/None,> 7,4,Male,Guarantor,4,Car or other,60,Stores,Own,1,Skilled,2,0,0,1
+< 0,56,Critical account,Domestic appliances,5960,< 100,4 - 7,4,Female,No,3,Real estate,33,Bank,Own,2,Unskilled,1,1,0,1
+No,13,All paid,Furniture/equipment,9982,500 - 1000,4 - 7,4,Male,Co-applicant,2,Unknown/None,58,Stores,Rent,4,Highly skilled,1,1,1,1
+< 0,48,Delay in paying,Retraining,3441,100 - 500,< 1,1,Male,Co-applicant,2,Car or other,20,Bank,Rent,4,Unemployed,2,0,1,1
+< 0,20,Existing paid,Retraining,939,500 - 1000,< 1,1,Male,No,1,Real estate,49,Stores,Own,2,Skilled,2,0,1,1
+0 - 200,29,Delay in paying,Repairs,2353,Unknown/None,Unemployed,4,Female,No,1,Savings agreement/life insurance,22,Bank,Own,1,Unskilled,1,0,1,1
+< 0,65,Existing paid,Car (new),615,> 1000,1 - 4,4,Female,No,1,Car or other,37,Stores,Rent,1,Unemployed,1,1,0,1
+> 200,49,Existing paid,Education,14260,100 - 500,< 1,3,Female,No,3,Savings agreement/life insurance,31,Stores,Own,1,Skilled,2,0,1,1
+> 200,67,Delay in paying,Education,12017,< 100,1 - 4,4,Male,Guarantor,4,Real estate,49,Stores,Rent,4,Skilled,2,1,1,1
+No,5,Existing paid,Business,16353,100 - 500,< 1,2,Male,No,3,Savings agreement/life insurance,43,Bank,Own,1,Unskilled,2,1,1,0
+< 0,57,Existing paid,Business,12992,< 100,> 7,2,Male,Guarantor,2,Unknown/None,64,No,Rent,1,Unemployed,1,1,1,1
+No,68,All paid,Radio/television,12641,100 - 500,> 7,4,Female,Guarantor,4,Unknown/None,23,Stores,For free,4,Unskilled,2,1,0,1
+> 200,54,Critical account,Vacation,4422,< 100,Unemployed,1,Male,No,1,Savings agreement/life insurance,53,Stores,For free,4,Skilled,1,0,1,1
+< 0,56,Critical account,Repairs,15873,< 100,Unemployed,3,Male,Guarantor,3,Unknown/None,57,Bank,Rent,3,Skilled,2,1,0,1
+< 0,39,All paid,Radio/television,2628,100 - 500,1 - 4,1,Female,No,3,Real estate,68,Stores,For free,4,Highly skilled,1,0,0,1
+No,29,Delay in paying,Radio/television,17839,100 - 500,< 1,4,Male,No,1,Unknown/None,22,Stores,Own,2,Skilled,1,1,0,1
+> 200,32,No credits/all paid,Car (used),12281,< 100,4 - 7,2,Male,Co-applicant,3,Savings agreement/life insurance,30,Stores,Rent,4,Skilled,2,0,0,1
+< 0,24,No credits/all paid,Car (used),5919,Unknown/None,Unemployed,3,Female,No,1,Savings agreement/life insurance,49,Stores,Rent,4,Unemployed,1,0,0,1
+No,14,No credits/all paid,Radio/television,2985,100 - 500,4 - 7,1,Female,Co-applicant,2,Savings agreement/life insurance,33,No,Own,1,Unemployed,1,0,1,1
+> 200,43,All paid,Domestic appliances,10117,500 - 1000,4 - 7,1,Male,Guarantor,4,Car or other,18,No,Own,3,Highly skilled,1,1,0,0
+No,14,All paid,Vacation,8740,> 1000,< 1,4,Female,Co-applicant,2,Savings agreement/life insurance,30,Stores,Rent,1,Highly skilled,1,1,0,0
+0 - 200,39,Existing paid,Repairs,1206,< 100,1 - 4,3,Male,Guarantor,2,Real estate,71,Stores,Own,3,Highly skilled,1,1,0,1
+< 0,62,No credits/all paid,Radio/television,9556,< 100,< 1,2,Female,No,1,Unknown/None,28,Stores,Rent,1,Unskilled,2,0,1,1
+0 - 200,42,Delay in paying,Others,6873,> 1000,Unemployed,4,Male,Guarantor,3,Unknown/None,70,No,Own,2,Unskilled,2,1,0,1
+> 200,57,Delay in paying,Education,15158,Unknown/None,4 - 7,3,Female,Guarantor,2,Car or other,25,No,Rent,1,Highly skilled,1,1,1,1
+0 - 200,58,No credits/all paid,Vacation,4710,> 1000,< 1,1,Male,No,2,Car or other,42,Bank,Own,1,Unskilled,2,1,0,1
+0 - 200,27,No credits/all paid,Car (used),14236,100 - 500,< 1,4,Female,Guarantor,2,Real estate,57,Bank,Own,2,Skilled,1,0,0,1
+> 200,25,No credits/all paid,Education,12888,> 1000,< 1,1,Female,No,3,Savings agreement/life insurance,49,Stores,For free,2,Highly skilled,1,1,1,1
+No,59,All paid,Car (used),3100,< 100,Unemployed,1,Female,Co-applicant,3,Car or other,41,Stores,For free,4,Highly skilled,2,1,1,1
+0 - 200,36,All paid,Car (used),13549,> 1000,1 - 4,4,Female,No,1,Unknown/None,45,No,For free,1,Unskilled,1,0,1,1
+No,39,All paid,Vacation,10948,500 - 1000,< 1,4,Female,No,2,Car or other,31,Stores,Own,2,Unemployed,1,0,0,0
+0 - 200,23,Critical account,Car (used),4844,100 - 500,Unemployed,4,Female,Guarantor,4,Car or other,62,Stores,Rent,2,Highly skilled,1,0,1,1
+No,65,Delay in paying,Others,14532,> 1000,4 - 7,4,Female,Co-applicant,3,Savings agreement/life insurance,20,No,Own,4,Unskilled,2,0,1,1
+> 200,29,Delay in paying,Retraining,16535,< 100,> 7,4,Male,No,1,Car or other,53,No,For free,3,Unskilled,2,0,1,1
+0 - 200,69,Existing paid,Car (new),14584,100 - 500,Unemployed,1,Male,Co-applicant,2,Real estate,44,No,Own,2,Unemployed,1,0,1,1
+> 200,43,All paid,Retraining,6894,< 100,> 7,2,Female,Co-applicant,4,Unknown/None,37,No,For free,2,Highly skilled,1,1,1,1
+0 - 200,20,Critical account,Car (new),3100,Unknown/None,< 1,2,Female,Guarantor,3,Savings agreement/life insurance,64,Bank,For free,1,Unemployed,1,1,0,1
+> 200,4,Critical account,Business,15183,500 - 1000,< 1,4,Male,No,4,Unknown/None,32,No,Rent,4,Skilled,1,0,1,1
+> 200,64,Delay in paying,Business,415,Unknown/None,Unemployed,1,Male,Guarantor,3,Real estate,44,No,Rent,1,Unemployed,1,1,0,1
+0 - 200,46,All paid,Car (used),10951,500 - 1000,> 7,2,Female,No,1,Real estate,70,Stores,For free,3,Unemployed,2,0,1,1
+0 - 200,45,Existing paid,Repairs,1169,> 1000,< 1,2,Male,Co-applicant,4,Car or other,62,Stores,For free,4,Unskilled,2,1,1,1
+0 - 200,28,All paid,Repairs,8555,100 - 500,4 - 7,2,Male,No,2,Car or other,58,Stores,Own,1,Unemployed,2,0,0,1
+< 0,42,No credits/all paid,Car (new),17625,> 1000,1 - 4,1,Female,No,2,Car or other,45,Bank,For free,2,Skilled,2,0,0,1
+No,38,All paid,Education,15965,500 - 1000,1 - 4,4,Female,Co-applicant,3,Unknown/None,42,No,Own,2,Unskilled,1,1,0,1
+< 0,6,No credits/all paid,Vacation,4089,500 - 1000,< 1,4,Female,Co-applicant,2,Real estate,59,No,For free,4,Skilled,1,1,0,1
+< 0,47,No credits/all paid,Car (used),17892,500 - 1000,> 7,4,Male,No,4,Savings agreement/life insurance,61,Bank,Rent,2,Unemployed,2,1,1,0
+> 200,54,Existing paid,Vacation,11868,< 100,< 1,3,Female,Guarantor,1,Car or other,63,No,Rent,1,Skilled,2,1,0,1
+0 - 200,15,Delay in paying,Retraining,13769,100 - 500,> 7,3,Female,No,3,Unknown/None,50,Stores,For free,4,Skilled,1,1,1,1
+No,22,All paid,Repairs,11026,> 1000,4 - 7,3,Male,Co-applicant,4,Car or other,63,Bank,Own,2,Unemployed,2,1,1,1
+> 200,47,No credits/all paid,Domestic appliances,317,> 1000,> 7,1,Female,Guarantor,3,Real estate,31,No,Own,2,Unemployed,1,1,1,0
+< 0,62,All paid,Retraining,10038,Unknown/None,< 1,2,Male,Co-applicant,1,Savings agreement/life insurance,25,Bank,Own,3,Unskilled,1,1,0,1
+0 - 200,52,Delay in paying,Others,5910,500 - 1000,4 - 7,2,Male,Co-applicant,3,Real estate,65,Bank,For free,3,Unskilled,1,0,0,1
+> 200,64,Delay in paying,Retraining,4728,500 - 1000,Unemployed,1,Male,Guarantor,2,Unknown/None,31,No,For free,4,Highly skilled,2,1,0,1
+0 - 200,20,Critical account,Car (new),8460,500 - 1000,1 - 4,1,Male,Co-applicant,2,Car or other,18,Stores,Rent,3,Unskilled,2,1,1,1
+> 200,60,Delay in paying,Others,11172,> 1000,< 1,4,Male,Co-applicant,3,Real estate,33,No,Rent,1,Unemployed,2,0,0,1
+0 - 200,58,Existing paid,Furniture/equipment,3771,Unknown/None,< 1,4,Male,Co-applicant,1,Unknown/None,35,No,For free,2,Skilled,2,0,0,1
+< 0,50,No credits/all paid,Retraining,822,< 100,< 1,3,Female,Co-applicant,1,Car or other,24,Stores,Rent,2,Skilled,2,0,1,1
+No,15,Critical account,Others,7332,100 - 500,4 - 7,3,Female,Co-applicant,2,Savings agreement/life insurance,32,No,Own,2,Unskilled,1,0,0,1
+< 0,65,Existing paid,Car (used),5645,< 100,Unemployed,1,Female,Co-applicant,1,Real estate,41,No,Own,4,Unskilled,2,1,1,1
+No,11,All paid,Radio/television,15657,> 1000,> 7,3,Male,Co-applicant,3,Car or other,66,No,For free,4,Unemployed,1,1,0,0
+0 - 200,24,No credits/all paid,Radio/television,11344,500 - 1000,Unemployed,2,Female,Co-applicant,4,Car or other,68,Bank,Own,3,Skilled,1,0,0,1
+> 200,28,Delay in paying,Car (used),900,100 - 500,4 - 7,1,Male,Co-applicant,3,Car or other,72,Bank,For free,2,Highly skilled,1,0,0,0
+< 0,15,No credits/all paid,Furniture/equipment,5991,> 1000,< 1,1,Female,No,2,Car or other,30,Bank,Own,2,Highly skilled,2,1,0,1
+No,18,All paid,Furniture/equipment,13531,> 1000,1 - 4,2,Male,No,2,Real estate,26,No,For free,2,Unskilled,2,1,0,0
+< 0,62,Critical account,Car (new),7088,> 1000,< 1,4,Female,Co-applicant,2,Car or other,73,Stores,Own,2,Highly skilled,2,1,1,1
+No,29,Critical account,Repairs,3512,100 - 500,> 7,4,Male,No,1,Unknown/None,73,Bank,Own,2,Unemployed,2,1,0,1
+< 0,29,Critical account,Vacation,17972,100 - 500,1 - 4,2,Female,Guarantor,3,Real estate,32,Stores,Rent,1,Highly skilled,2,0,0,1
+No,50,Delay in paying,Furniture/equipment,5246,Unknown/None,< 1,2,Male,No,4,Car or other,74,No,Rent,2,Unskilled,2,1,0,1
+No,35,Existing paid,Domestic appliances,12076,Unknown/None,1 - 4,3,Female,Co-applicant,3,Real estate,52,Bank,Rent,1,Unemployed,2,0,0,1
+0 - 200,13,Existing paid,Car (new),3077,< 100,Unemployed,1,Male,Co-applicant,4,Unknown/None,41,No,Rent,2,Skilled,2,0,0,1
+No,19,No credits/all paid,Business,14461,100 - 500,4 - 7,3,Female,No,3,Unknown/None,50,Stores,Rent,4,Unemployed,1,0,0,0
+0 - 200,20,Delay in paying,Education,5482,100 - 500,< 1,2,Female,Co-applicant,2,Real estate,33,Bank,Rent,4,Unskilled,2,1,0,1
+No,26,Critical account,Business,2467,100 - 500,> 7,3,Female,Guarantor,4,Car or other,25,Bank,For free,1,Unskilled,1,0,1,0
+> 200,29,Critical account,Car (new),14482,Unknown/None,Unemployed,2,Male,Guarantor,3,Car or other,46,Bank,For free,2,Highly skilled,1,1,1,1
+> 200,10,All paid,Others,14276,> 1000,< 1,3,Male,Co-applicant,1,Unknown/None,40,Bank,Rent,4,Highly skilled,1,0,0,0
+> 200,17,All paid,Retraining,14128,500 - 1000,Unemployed,3,Male,Guarantor,1,Car or other,62,Stores,For free,4,Skilled,1,1,1,1
+No,10,Critical account,Vacation,7087,Unknown/None,> 7,4,Male,Guarantor,3,Unknown/None,48,Bank,Rent,2,Skilled,2,0,0,1
+0 - 200,12,Critical account,Education,7281,100 - 500,< 1,2,Male,No,2,Car or other,57,No,For free,2,Unskilled,2,0,1,0
+0 - 200,51,Delay in paying,Business,15056,Unknown/None,> 7,3,Female,Guarantor,4,Unknown/None,66,Bank,Own,4,Unskilled,1,1,0,1
+No,62,Existing paid,Education,3966,< 100,1 - 4,1,Male,No,3,Savings agreement/life insurance,71,Stores,For free,2,Unskilled,1,1,0,1
+> 200,42,All paid,Domestic appliances,3664,100 - 500,> 7,3,Female,Co-applicant,1,Car or other,72,Bank,For free,3,Skilled,1,0,1,1
+> 200,21,Existing paid,Domestic appliances,820,< 100,1 - 4,3,Female,No,4,Car or other,31,Stores,For free,2,Unskilled,2,0,0,0
+0 - 200,62,Delay in paying,Others,13538,100 - 500,< 1,1,Male,Co-applicant,1,Car or other,70,Stores,Own,4,Skilled,1,1,1,1
+> 200,20,Critical account,Domestic appliances,1167,Unknown/None,1 - 4,2,Female,Co-applicant,1,Real estate,47,No,Rent,4,Unskilled,1,0,0,1
+< 0,17,Existing paid,Car (new),10316,> 1000,< 1,4,Male,Co-applicant,3,Car or other,70,Bank,For free,1,Unemployed,2,1,0,1
+0 - 200,34,Critical account,Vacation,7232,500 - 1000,< 1,4,Male,Co-applicant,1,Real estate,56,Bank,For free,3,Unemployed,1,1,0,1
+> 200,27,Critical account,Others,6586,< 100,4 - 7,4,Male,Co-applicant,4,Real estate,44,Bank,Own,4,Unskilled,2,0,0,1
+0 - 200,63,No credits/all paid,Car (new),17249,Unknown/None,< 1,1,Female,No,2,Unknown/None,64,No,Rent,3,Unemployed,2,1,1,1
+< 0,48,Existing paid,Radio/television,10191,> 1000,1 - 4,3,Male,Co-applicant,3,Real estate,33,No,For free,2,Skilled,1,0,0,1
+0 - 200,6,Existing paid,Retraining,12630,Unknown/None,4 - 7,2,Male,Guarantor,4,Real estate,68,Stores,Own,4,Highly skilled,1,1,1,1
+0 - 200,40,Critical account,Retraining,11917,< 100,4 - 7,3,Male,Guarantor,3,Savings agreement/life insurance,23,Stores,Rent,1,Unemployed,1,1,1,1
+0 - 200,46,Delay in paying,Domestic appliances,4779,500 - 1000,< 1,4,Female,Co-applicant,1,Car or other,72,Stores,Rent,4,Highly skilled,2,0,0,1
+0 - 200,43,No credits/all paid,Radio/television,17769,Unknown/None,> 7,3,Male,Guarantor,1,Real estate,50,No,For free,1,Unemployed,2,1,0,1
+< 0,58,Critical account,Furniture/equipment,12442,100 - 500,> 7,1,Female,No,4,Car or other,61,No,For free,3,Skilled,2,0,1,1
+No,42,All paid,Furniture/equipment,8816,> 1000,4 - 7,1,Female,No,4,Real estate,35,No,For free,1,Unemployed,1,1,1,1
+0 - 200,18,All paid,Domestic appliances,7476,Unknown/None,< 1,2,Male,Co-applicant,2,Unknown/None,33,Stores,For free,2,Unemployed,1,1,0,0
+0 - 200,7,No credits/all paid,Business,5412,> 1000,> 7,2,Female,Co-applicant,4,Savings agreement/life insurance,29,No,Own,2,Unskilled,1,1,1,0
+> 200,28,Delay in paying,Car (new),16840,100 - 500,< 1,4,Female,Co-applicant,4,Real estate,37,Stores,Own,2,Highly skilled,1,1,1,0
+0 - 200,16,Critical account,Domestic appliances,1569,500 - 1000,< 1,2,Male,Guarantor,3,Car or other,62,Stores,For free,4,Highly skilled,1,0,1,1
+> 200,36,Existing paid,Repairs,1391,500 - 1000,4 - 7,3,Male,Guarantor,1,Unknown/None,57,Bank,Rent,2,Skilled,1,1,0,1
+No,19,No credits/all paid,Education,4877,100 - 500,4 - 7,1,Male,No,4,Car or other,46,Bank,For free,2,Skilled,2,1,1,1
+< 0,45,Delay in paying,Retraining,14751,> 1000,Unemployed,1,Female,Guarantor,2,Unknown/None,47,Bank,Rent,4,Highly skilled,2,1,1,1
+< 0,69,Existing paid,Furniture/equipment,2940,Unknown/None,> 7,1,Male,No,4,Savings agreement/life insurance,43,Stores,Rent,3,Unskilled,2,0,1,1
+No,58,All paid,Car (used),7573,100 - 500,> 7,2,Female,Guarantor,1,Unknown/None,39,Bank,Rent,2,Unskilled,1,0,1,0
+< 0,45,All paid,Furniture/equipment,3505,< 100,> 7,1,Female,No,4,Car or other,50,Bank,Own,2,Highly skilled,2,0,0,1
+No,37,Existing paid,Retraining,5463,> 1000,1 - 4,1,Female,Co-applicant,3,Car or other,70,Bank,Rent,4,Unemployed,2,0,0,0
+No,33,No credits/all paid,Education,4358,500 - 1000,< 1,1,Female,Guarantor,1,Real estate,56,No,Rent,3,Highly skilled,2,1,1,0
+No,16,All paid,Retraining,10052,100 - 500,4 - 7,4,Female,No,4,Unknown/None,64,Stores,Own,3,Unemployed,1,1,1,0
+< 0,16,Critical account,Car (used),11663,500 - 1000,> 7,4,Male,Guarantor,3,Car or other,46,Bank,Rent,3,Highly skilled,1,1,1,1
+> 200,21,Existing paid,Domestic appliances,15245,> 1000,Unemployed,2,Male,Co-applicant,1,Real estate,39,No,Rent,4,Unemployed,2,0,0,1
+No,35,Existing paid,Radio/television,12833,500 - 1000,> 7,1,Female,No,4,Savings agreement/life insurance,62,No,For free,1,Unskilled,1,0,0,0
+0 - 200,42,All paid,Car (used),5271,100 - 500,< 1,2,Female,Guarantor,3,Car or other,30,No,Rent,1,Highly skilled,1,1,1,0
+< 0,49,No credits/all paid,Retraining,6832,> 1000,< 1,1,Male,Guarantor,2,Real estate,26,Bank,Rent,2,Skilled,1,1,1,1
+No,32,Critical account,Retraining,13705,< 100,4 - 7,1,Male,Co-applicant,3,Car or other,41,No,Rent,2,Unemployed,1,1,0,0
+No,65,No credits/all paid,Repairs,13367,100 - 500,1 - 4,1,Female,Co-applicant,2,Unknown/None,32,Stores,Rent,2,Unskilled,2,0,1,1
+0 - 200,65,Delay in paying,Others,17609,Unknown/None,4 - 7,2,Female,No,4,Real estate,53,No,Rent,1,Skilled,1,1,1,1
+> 200,60,Delay in paying,Repairs,1512,100 - 500,> 7,2,Male,Guarantor,3,Unknown/None,30,No,Own,4,Unskilled,2,1,0,1
+> 200,19,All paid,Vacation,7632,> 1000,Unemployed,1,Male,Guarantor,2,Savings agreement/life insurance,44,No,Rent,2,Unemployed,2,0,0,1
+> 200,59,All paid,Repairs,3577,100 - 500,4 - 7,3,Female,Co-applicant,1,Unknown/None,61,No,Rent,4,Highly skilled,1,0,0,1
+No,13,All paid,Car (new),10270,< 100,1 - 4,2,Male,Co-applicant,3,Real estate,54,Stores,Own,2,Unskilled,1,1,0,0
+No,33,Delay in paying,Radio/television,17891,< 100,4 - 7,4,Male,No,4,Car or other,24,Bank,Own,4,Highly skilled,1,0,0,0
+No,28,No credits/all paid,Education,17098,Unknown/None,< 1,2,Female,Guarantor,1,Real estate,25,Stores,Rent,4,Highly skilled,2,1,1,0
+< 0,8,No credits/all paid,Car (used),14312,500 - 1000,> 7,1,Female,Guarantor,2,Unknown/None,54,Stores,Rent,1,Unskilled,2,1,0,1
+0 - 200,68,All paid,Retraining,7024,> 1000,> 7,3,Female,No,3,Unknown/None,58,Bank,Rent,4,Unskilled,2,1,0,1
+No,52,Critical account,Vacation,15410,> 1000,> 7,1,Male,No,3,Car or other,31,No,For free,3,Unskilled,2,1,0,1
+0 - 200,6,No credits/all paid,Vacation,1480,500 - 1000,> 7,4,Female,Co-applicant,4,Savings agreement/life insurance,29,Bank,For free,1,Highly skilled,2,0,0,0
+0 - 200,48,Delay in paying,Education,9326,< 100,> 7,2,Male,Co-applicant,1,Real estate,53,Bank,Rent,2,Skilled,2,0,0,1
+> 200,17,Existing paid,Radio/television,4055,< 100,> 7,2,Female,No,3,Car or other,69,Stores,Own,1,Unemployed,2,0,0,0
+< 0,33,Existing paid,Car (used),14965,100 - 500,Unemployed,1,Female,No,3,Car or other,57,Bank,Rent,3,Skilled,1,1,1,1
+No,71,Existing paid,Furniture/equipment,6000,Unknown/None,1 - 4,1,Male,Guarantor,1,Car or other,34,No,Own,3,Highly skilled,2,1,0,0
+> 200,21,Critical account,Repairs,15877,Unknown/None,> 7,4,Male,No,3,Real estate,57,Stores,Own,4,Unskilled,2,1,1,1
+> 200,65,All paid,Domestic appliances,13482,Unknown/None,1 - 4,3,Female,No,1,Real estate,70,No,Own,3,Unskilled,2,0,1,1
+No,40,Delay in paying,Vacation,3385,100 - 500,> 7,4,Female,Guarantor,1,Real estate,46,Stores,Rent,3,Unemployed,2,0,0,0
+0 - 200,28,Critical account,Repairs,7203,Unknown/None,4 - 7,3,Male,No,1,Savings agreement/life insurance,44,No,Rent,3,Unemployed,1,1,0,1
+> 200,51,Delay in paying,Repairs,1796,500 - 1000,> 7,2,Female,Co-applicant,4,Car or other,18,Bank,Own,3,Skilled,2,0,1,1
+0 - 200,68,Delay in paying,Car (new),15707,100 - 500,< 1,3,Male,Co-applicant,1,Unknown/None,69,Bank,For free,2,Skilled,2,0,1,1
+< 0,56,All paid,Radio/television,17728,500 - 1000,Unemployed,3,Male,Guarantor,1,Unknown/None,51,Bank,For free,2,Unemployed,1,0,1,1
+0 - 200,18,Existing paid,Domestic appliances,2661,100 - 500,4 - 7,2,Female,No,2,Car or other,21,No,For free,1,Highly skilled,1,0,0,1
+< 0,52,All paid,Others,14363,Unknown/None,4 - 7,2,Male,Co-applicant,2,Unknown/None,41,Stores,Own,4,Skilled,2,1,1,1
+0 - 200,71,Critical account,Furniture/equipment,4395,500 - 1000,< 1,2,Male,Co-applicant,4,Savings agreement/life insurance,38,Stores,Rent,2,Unskilled,2,0,0,1
+> 200,15,Critical account,Retraining,3025,500 - 1000,> 7,4,Male,Co-applicant,1,Savings agreement/life insurance,50,Stores,Own,3,Unskilled,2,1,0,1
+> 200,62,Critical account,Car (new),13443,500 - 1000,Unemployed,2,Female,Co-applicant,2,Real estate,24,Bank,For free,4,Highly skilled,2,0,1,1
+< 0,40,All paid,Repairs,13101,100 - 500,4 - 7,1,Male,No,2,Real estate,18,No,Rent,2,Unemployed,2,1,0,1
+No,64,Delay in paying,Repairs,13320,> 1000,Unemployed,2,Female,No,3,Real estate,58,Stores,Own,1,Skilled,2,1,0,1
+< 0,46,Delay in paying,Business,4220,Unknown/None,4 - 7,2,Female,No,1,Real estate,20,No,Own,3,Unskilled,1,0,1,1
+< 0,42,No credits/all paid,Domestic appliances,14369,500 - 1000,> 7,2,Female,No,2,Real estate,61,Stores,For free,4,Unemployed,1,1,1,1
+0 - 200,59,Critical account,Domestic appliances,4581,> 1000,4 - 7,3,Male,Co-applicant,4,Unknown/None,68,Bank,Own,2,Skilled,2,1,0,1
+0 - 200,66,Delay in paying,Business,10545,Unknown/None,4 - 7,4,Male,Guarantor,3,Unknown/None,32,No,Rent,4,Highly skilled,2,0,1,1
+< 0,49,No credits/all paid,Domestic appliances,2192,Unknown/None,1 - 4,2,Female,Guarantor,3,Real estate,48,Stores,For free,2,Unskilled,2,1,0,1
+> 200,14,Delay in paying,Repairs,16825,500 - 1000,> 7,4,Female,Co-applicant,1,Savings agreement/life insurance,71,Stores,For free,1,Highly skilled,1,0,1,1
+0 - 200,65,Critical account,Vacation,13654,500 - 1000,< 1,1,Male,Co-applicant,1,Unknown/None,33,Stores,Rent,3,Highly skilled,2,1,1,0
+No,28,Existing paid,Car (used),1111,100 - 500,< 1,1,Female,Guarantor,3,Savings agreement/life insurance,27,Stores,For free,1,Highly skilled,1,0,1,1
+0 - 200,55,Critical account,Repairs,9525,> 1000,> 7,2,Female,Guarantor,4,Savings agreement/life insurance,71,Bank,Own,3,Skilled,1,0,1,1
+0 - 200,7,All paid,Car (new),17283,> 1000,< 1,1,Male,Co-applicant,1,Car or other,46,Stores,Own,3,Highly skilled,2,0,0,1
+No,62,Delay in paying,Radio/television,4384,500 - 1000,> 7,4,Female,Co-applicant,1,Car or other,23,Stores,For free,4,Skilled,1,0,1,1
+< 0,23,Delay in paying,Business,12053,Unknown/None,< 1,3,Male,No,3,Real estate,46,Bank,Rent,2,Skilled,2,0,0,1
+No,66,All paid,Furniture/equipment,15658,500 - 1000,1 - 4,2,Male,No,3,Savings agreement/life insurance,34,Stores,Own,1,Highly skilled,1,1,0,1
+< 0,57,All paid,Retraining,17670,Unknown/None,< 1,1,Female,Guarantor,1,Unknown/None,70,No,Rent,1,Highly skilled,2,1,1,1
+< 0,60,Existing paid,Furniture/equipment,16601,Unknown/None,4 - 7,4,Male,Co-applicant,2,Car or other,39,No,Own,1,Unemployed,2,0,1,1
+< 0,44,Delay in paying,Repairs,4381,500 - 1000,> 7,4,Male,Guarantor,1,Car or other,41,Stores,Own,4,Unskilled,1,1,1,1
+No,6,Delay in paying,Car (new),12307,< 100,Unemployed,1,Male,No,2,Savings agreement/life insurance,34,Bank,For free,4,Unemployed,1,1,1,0
+< 0,9,Existing paid,Repairs,11599,> 1000,Unemployed,4,Female,No,3,Car or other,38,Bank,For free,4,Unskilled,1,1,1,0
+> 200,8,No credits/all paid,Radio/television,11736,Unknown/None,> 7,4,Female,Guarantor,2,Car or other,68,Bank,Rent,3,Unskilled,2,0,0,1
+No,8,Existing paid,Vacation,5707,Unknown/None,1 - 4,2,Female,No,4,Unknown/None,67,Stores,For free,1,Unemployed,1,0,1,1
+> 200,57,Critical account,Others,6329,< 100,< 1,4,Male,Co-applicant,3,Savings agreement/life insurance,28,Stores,Own,3,Unemployed,1,1,0,1
+< 0,50,Delay in paying,Retraining,12703,100 - 500,1 - 4,1,Male,Guarantor,1,Car or other,73,No,Own,1,Unskilled,2,0,0,1
+0 - 200,52,All paid,Radio/television,12408,< 100,Unemployed,2,Female,Co-applicant,1,Savings agreement/life insurance,24,Bank,Rent,1,Unskilled,2,0,0,1
+< 0,12,Critical account,Business,15985,< 100,> 7,1,Female,Co-applicant,3,Car or other,59,Stores,Rent,2,Unskilled,1,1,0,1
+> 200,23,Delay in paying,Business,16080,Unknown/None,> 7,3,Male,No,3,Unknown/None,56,Stores,Own,1,Skilled,1,0,1,1
+> 200,64,Existing paid,Repairs,15375,> 1000,1 - 4,1,Female,Co-applicant,4,Savings agreement/life insurance,22,Stores,For free,4,Unskilled,1,0,1,1
+No,38,Critical account,Car (new),12155,< 100,1 - 4,1,Female,Guarantor,3,Car or other,61,Bank,For free,4,Highly skilled,2,0,0,0
+0 - 200,53,Delay in paying,Radio/television,12548,100 - 500,< 1,2,Female,Co-applicant,1,Unknown/None,65,Bank,Rent,4,Highly skilled,2,0,0,1
+No,65,No credits/all paid,Education,2261,500 - 1000,4 - 7,4,Female,Co-applicant,4,Car or other,74,No,Rent,2,Highly skilled,1,0,1,0
+> 200,20,No credits/all paid,Car (new),3623,< 100,4 - 7,1,Female,Co-applicant,1,Savings agreement/life insurance,38,Bank,Own,2,Unemployed,2,1,0,1
+< 0,6,All paid,Vacation,10585,< 100,< 1,2,Male,Co-applicant,2,Car or other,35,Stores,Own,3,Unemployed,1,0,1,1
+0 - 200,35,Delay in paying,Business,10942,100 - 500,4 - 7,3,Female,Co-applicant,3,Savings agreement/life insurance,52,No,Rent,1,Unemployed,1,0,0,1
+< 0,16,No credits/all paid,Others,14777,> 1000,Unemployed,2,Female,No,2,Savings agreement/life insurance,37,Bank,Own,1,Unskilled,2,1,1,0
+< 0,71,Existing paid,Repairs,13023,< 100,4 - 7,2,Male,Guarantor,1,Car or other,32,Bank,Rent,4,Highly skilled,1,1,0,1
+0 - 200,17,Delay in paying,Domestic appliances,1539,< 100,< 1,4,Male,No,2,Unknown/None,22,Bank,Rent,4,Unskilled,1,0,0,1
+No,14,Existing paid,Business,1697,> 1000,4 - 7,1,Male,Guarantor,2,Real estate,30,Bank,For free,4,Skilled,2,1,0,0
+< 0,59,Existing paid,Others,14389,100 - 500,> 7,3,Male,Guarantor,1,Unknown/None,68,Stores,Rent,4,Skilled,1,0,1,1
+> 200,70,No credits/all paid,Retraining,14007,< 100,1 - 4,2,Female,Guarantor,1,Unknown/None,29,Bank,Own,4,Unemployed,1,1,1,1
+< 0,32,Delay in paying,Car (used),5712,> 1000,Unemployed,1,Female,Guarantor,3,Car or other,72,Stores,For free,4,Skilled,2,0,1,1
+0 - 200,12,Critical account,Domestic appliances,7907,< 100,> 7,1,Female,Guarantor,2,Unknown/None,38,Stores,For free,1,Highly skilled,1,1,0,1
+0 - 200,70,No credits/all paid,Repairs,5170,500 - 1000,> 7,2,Female,Co-applicant,4,Unknown/None,54,Stores,Own,2,Skilled,1,0,0,1
+0 - 200,28,No credits/all paid,Education,10595,Unknown/None,< 1,1,Male,No,4,Real estate,23,No,Own,4,Unemployed,2,1,0,0
+No,45,Delay in paying,Domestic appliances,8667,500 - 1000,1 - 4,2,Male,No,1,Unknown/None,24,Stores,Own,1,Unskilled,2,0,0,0
+< 0,12,Delay in paying,Retraining,17410,< 100,1 - 4,2,Female,Co-applicant,1,Real estate,43,Bank,Rent,4,Skilled,2,0,0,1
+No,43,Existing paid,Car (new),5458,100 - 500,Unemployed,2,Female,Guarantor,2,Car or other,59,No,For free,3,Highly skilled,1,0,0,1
+No,28,Delay in paying,Education,937,Unknown/None,< 1,3,Female,No,1,Real estate,65,Bank,Rent,3,Highly skilled,2,1,1,0
+0 - 200,8,Existing paid,Business,17163,500 - 1000,Unemployed,2,Female,Co-applicant,4,Savings agreement/life insurance,25,Stores,Rent,1,Highly skilled,1,1,1,0
+0 - 200,14,No credits/all paid,Education,13473,> 1000,4 - 7,4,Male,Co-applicant,3,Savings agreement/life insurance,26,Bank,Rent,2,Unskilled,2,0,1,1
+No,62,All paid,Radio/television,8330,100 - 500,> 7,1,Female,No,3,Real estate,44,No,Rent,3,Highly skilled,1,0,0,1
+< 0,41,Critical account,Retraining,9736,500 - 1000,Unemployed,3,Male,No,2,Savings agreement/life insurance,21,No,For free,3,Unemployed,1,0,1,1
+> 200,8,No credits/all paid,Others,6344,> 1000,> 7,1,Male,Guarantor,3,Car or other,38,Bank,For free,2,Unemployed,2,0,0,0
+No,51,Delay in paying,Domestic appliances,7942,< 100,< 1,3,Male,Guarantor,1,Savings agreement/life insurance,48,Bank,Rent,3,Highly skilled,1,1,0,1
+< 0,21,Critical account,Radio/television,11338,> 1000,4 - 7,4,Male,No,1,Real estate,38,Bank,Own,4,Skilled,1,1,1,1
+0 - 200,40,All paid,Education,3353,500 - 1000,< 1,3,Female,Guarantor,1,Car or other,57,No,For free,2,Highly skilled,2,1,0,1
+0 - 200,63,All paid,Radio/television,2690,500 - 1000,4 - 7,3,Female,Co-applicant,1,Savings agreement/life insurance,42,Stores,Rent,3,Unemployed,1,0,0,1
+< 0,51,Existing paid,Furniture/equipment,7374,< 100,4 - 7,3,Female,Guarantor,2,Car or other,56,Bank,Own,2,Unemployed,1,0,0,1
+> 200,31,Critical account,Retraining,17478,> 1000,> 7,1,Female,Guarantor,3,Real estate,32,Stores,Own,4,Unemployed,1,1,0,1
+0 - 200,43,Existing paid,Others,14281,> 1000,< 1,2,Male,Co-applicant,4,Savings agreement/life insurance,70,No,Rent,3,Skilled,2,1,0,0
+0 - 200,48,No credits/all paid,Vacation,14786,< 100,< 1,1,Male,Guarantor,3,Car or other,52,Bank,For free,1,Skilled,2,1,1,1
+0 - 200,65,Critical account,Car (new),696,> 1000,Unemployed,2,Male,Co-applicant,1,Car or other,66,Bank,Own,3,Skilled,2,1,1,1
+< 0,61,No credits/all paid,Education,4165,< 100,< 1,1,Female,Guarantor,4,Savings agreement/life insurance,60,No,For free,3,Unemployed,2,0,0,1
+No,70,Existing paid,Retraining,16037,100 - 500,Unemployed,4,Male,No,2,Car or other,58,Bank,For free,4,Unskilled,2,0,0,1
+0 - 200,59,Critical account,Vacation,17868,500 - 1000,1 - 4,4,Male,Guarantor,1,Car or other,54,Stores,Own,1,Highly skilled,2,0,1,1
+No,43,Existing paid,Vacation,6837,100 - 500,1 - 4,3,Male,No,1,Real estate,74,No,Rent,1,Highly skilled,2,1,1,1
+> 200,43,Critical account,Repairs,476,Unknown/None,1 - 4,4,Male,No,4,Real estate,59,No,Own,1,Unemployed,2,0,1,1
+0 - 200,36,Existing paid,Others,11401,Unknown/None,< 1,3,Female,No,2,Real estate,64,Bank,Own,4,Skilled,1,1,0,0
+0 - 200,9,All paid,Radio/television,5808,Unknown/None,< 1,2,Male,No,4,Real estate,45,No,For free,4,Unskilled,1,1,1,1
+> 200,22,Existing paid,Vacation,12221,< 100,Unemployed,4,Male,No,2,Real estate,31,Bank,Rent,4,Unskilled,1,1,1,0
+0 - 200,43,All paid,Furniture/equipment,436,> 1000,4 - 7,2,Female,Co-applicant,1,Real estate,21,Bank,For free,4,Skilled,1,1,0,1
+No,62,Existing paid,Retraining,14930,100 - 500,Unemployed,1,Female,Co-applicant,3,Savings agreement/life insurance,70,No,Own,4,Highly skilled,2,1,0,1
+< 0,62,Critical account,Car (used),14809,100 - 500,1 - 4,2,Female,Co-applicant,1,Real estate,37,Bank,Rent,1,Highly skilled,1,0,1,1
+No,51,Critical account,Car (used),11319,100 - 500,Unemployed,1,Male,No,3,Car or other,51,Stores,Rent,2,Unskilled,1,0,0,1
+< 0,44,Critical account,Education,2785,100 - 500,4 - 7,2,Male,Guarantor,3,Savings agreement/life insurance,29,Stores,Rent,4,Unskilled,1,0,1,1
+< 0,16,Delay in paying,Business,2182,Unknown/None,< 1,2,Male,Co-applicant,2,Car or other,50,Bank,Rent,2,Skilled,1,1,1,1
+No,48,No credits/all paid,Radio/television,2282,100 - 500,Unemployed,4,Male,Guarantor,4,Real estate,41,Stores,Rent,3,Highly skilled,1,0,0,1
+No,56,Critical account,Business,1502,> 1000,1 - 4,2,Female,Guarantor,2,Real estate,37,Bank,Own,3,Unskilled,2,1,0,1
+No,45,All paid,Vacation,5759,Unknown/None,1 - 4,4,Male,No,1,Car or other,22,Stores,Own,4,Highly skilled,2,0,1,0
+No,66,Critical account,Retraining,5324,100 - 500,< 1,4,Male,No,4,Car or other,55,No,Own,3,Unskilled,1,1,0,1
+> 200,30,Delay in paying,Education,14150,< 100,Unemployed,3,Female,No,3,Car or other,47,Bank,For free,2,Skilled,1,1,0,1
+0 - 200,41,All paid,Domestic appliances,14773,500 - 1000,4 - 7,3,Female,Co-applicant,3,Unknown/None,41,Bank,Rent,3,Highly skilled,1,0,0,1
+< 0,63,Delay in paying,Vacation,2131,500 - 1000,< 1,1,Female,No,1,Unknown/None,60,Bank,Rent,3,Unskilled,1,1,0,1
+No,10,All paid,Radio/television,519,500 - 1000,Unemployed,2,Male,Co-applicant,4,Unknown/None,57,Bank,Own,2,Unskilled,2,0,0,0
+No,8,Existing paid,Car (used),1880,Unknown/None,> 7,1,Male,Co-applicant,1,Unknown/None,24,Bank,Rent,3,Unskilled,1,0,0,1
+No,48,No credits/all paid,Others,13633,100 - 500,1 - 4,2,Male,Co-applicant,1,Savings agreement/life insurance,53,Bank,For free,4,Unskilled,2,0,0,1
+> 200,61,No credits/all paid,Repairs,16402,Unknown/None,4 - 7,3,Male,Co-applicant,2,Real estate,55,No,Rent,2,Skilled,1,1,1,0
+No,34,Delay in paying,Retraining,11334,> 1000,4 - 7,3,Male,No,1,Car or other,33,No,Rent,2,Highly skilled,2,1,0,1
+No,26,No credits/all paid,Car (new),1945,< 100,4 - 7,2,Female,Co-applicant,4,Real estate,69,Stores,For free,1,Highly skilled,2,1,1,1
+No,45,Delay in paying,Others,15071,< 100,1 - 4,2,Female,No,1,Car or other,32,Bank,Own,1,Unemployed,2,1,0,1
+0 - 200,13,Delay in paying,Business,3512,500 - 1000,Unemployed,3,Male,No,4,Real estate,63,Stores,Own,2,Highly skilled,1,0,1,0
+> 200,35,Delay in paying,Education,1695,500 - 1000,< 1,3,Male,Co-applicant,3,Savings agreement/life insurance,40,Stores,Rent,2,Unemployed,1,1,0,1
+No,56,No credits/all paid,Business,16686,500 - 1000,Unemployed,1,Male,No,1,Unknown/None,29,No,For free,1,Unskilled,2,0,1,1
+< 0,33,Delay in paying,Retraining,10199,100 - 500,< 1,3,Male,Guarantor,4,Real estate,46,Stores,Own,4,Skilled,1,0,0,0
+< 0,42,No credits/all paid,Business,7151,> 1000,4 - 7,2,Male,No,3,Car or other,61,No,Own,3,Skilled,1,1,1,1
+< 0,34,Delay in paying,Retraining,969,> 1000,Unemployed,1,Female,No,4,Real estate,65,Stores,Own,3,Unskilled,2,1,0,1
+> 200,5,Critical account,Business,8847,> 1000,4 - 7,2,Female,Co-applicant,3,Savings agreement/life insurance,32,Bank,Rent,3,Unemployed,1,0,0,1
+> 200,15,Delay in paying,Others,7105,> 1000,> 7,4,Female,Co-applicant,2,Savings agreement/life insurance,46,Stores,For free,2,Unskilled,2,1,1,1
+< 0,42,All paid,Furniture/equipment,8513,500 - 1000,4 - 7,1,Male,No,1,Real estate,62,No,Rent,4,Skilled,1,0,1,1
+No,69,Delay in paying,Others,14770,< 100,4 - 7,2,Male,Co-applicant,1,Unknown/None,60,No,Own,1,Skilled,1,1,0,1
+> 200,16,Existing paid,Domestic appliances,12124,500 - 1000,< 1,3,Female,Guarantor,3,Car or other,66,No,For free,4,Highly skilled,2,1,1,1
+< 0,49,Delay in paying,Vacation,14329,> 1000,> 7,4,Female,Guarantor,2,Savings agreement/life insurance,38,Stores,Rent,4,Unemployed,2,0,1,1
+< 0,30,All paid,Vacation,17332,500 - 1000,4 - 7,2,Male,Co-applicant,4,Savings agreement/life insurance,32,Stores,Own,3,Highly skilled,2,0,0,1
+No,20,All paid,Radio/television,7493,> 1000,4 - 7,1,Female,No,2,Real estate,31,No,Own,1,Skilled,2,0,1,0
+0 - 200,63,No credits/all paid,Others,9268,Unknown/None,> 7,2,Female,Guarantor,4,Savings agreement/life insurance,59,Bank,Rent,4,Skilled,1,1,0,1
+> 200,67,Critical account,Others,16982,< 100,> 7,4,Male,Guarantor,4,Savings agreement/life insurance,61,Bank,Own,1,Highly skilled,1,1,1,1
+No,38,Delay in paying,Car (new),12350,Unknown/None,Unemployed,1,Female,No,1,Car or other,33,Stores,Own,2,Highly skilled,1,1,0,1
+< 0,33,No credits/all paid,Car (new),16941,100 - 500,< 1,4,Female,Co-applicant,3,Unknown/None,32,Stores,For free,3,Skilled,2,0,1,1
+< 0,66,Critical account,Radio/television,5070,500 - 1000,> 7,2,Female,Guarantor,1,Car or other,59,No,Own,1,Highly skilled,1,0,0,1
+No,31,Delay in paying,Repairs,11251,100 - 500,> 7,3,Male,No,1,Unknown/None,21,Stores,Rent,2,Highly skilled,1,1,0,1
+> 200,63,Existing paid,Vacation,14157,500 - 1000,1 - 4,3,Female,No,1,Car or other,44,Stores,For free,2,Unemployed,1,0,1,1
+0 - 200,40,Delay in paying,Repairs,11919,Unknown/None,> 7,2,Female,Guarantor,4,Real estate,40,No,Rent,2,Skilled,2,1,1,0
+0 - 200,25,All paid,Retraining,16166,> 1000,< 1,2,Female,Co-applicant,1,Savings agreement/life insurance,46,No,Own,4,Unskilled,2,0,0,0
+< 0,71,All paid,Retraining,11128,> 1000,4 - 7,2,Male,Guarantor,4,Unknown/None,58,Stores,For free,4,Unemployed,1,1,0,1
+> 200,23,Existing paid,Car (used),3235,500 - 1000,4 - 7,1,Male,No,3,Real estate,70,Bank,For free,3,Unskilled,1,1,1,0
+0 - 200,71,No credits/all paid,Business,8362,> 1000,4 - 7,4,Female,Guarantor,4,Savings agreement/life insurance,69,Stores,For free,3,Highly skilled,2,1,1,1
+> 200,67,Critical account,Car (new),8717,Unknown/None,4 - 7,4,Male,Co-applicant,4,Savings agreement/life insurance,26,Bank,For free,2,Highly skilled,2,0,1,1
+> 200,20,Delay in paying,Car (used),586,> 1000,1 - 4,4,Female,No,2,Savings agreement/life insurance,70,Bank,Rent,3,Unskilled,2,0,1,0
+< 0,15,All paid,Domestic appliances,10415,Unknown/None,> 7,2,Male,Co-applicant,1,Car or other,74,Bank,Own,4,Highly skilled,2,1,1,1
+0 - 200,25,No credits/all paid,Radio/television,13018,100 - 500,4 - 7,4,Male,Guarantor,1,Real estate,73,No,Own,3,Highly skilled,1,1,1,1
+No,20,Existing paid,Radio/television,4218,Unknown/None,Unemployed,2,Female,Guarantor,1,Real estate,69,No,For free,1,Unemployed,2,1,0,1
+< 0,13,All paid,Retraining,1160,< 100,4 - 7,1,Female,Co-applicant,1,Savings agreement/life insurance,60,No,Own,4,Unskilled,1,1,1,1
+0 - 200,68,Existing paid,Others,15882,< 100,> 7,3,Female,Guarantor,2,Unknown/None,60,Stores,Rent,2,Unemployed,2,1,1,1
+0 - 200,25,Delay in paying,Vacation,16529,< 100,4 - 7,2,Male,Co-applicant,2,Real estate,24,No,Own,2,Unskilled,1,1,1,1
+0 - 200,53,Critical account,Repairs,3379,500 - 1000,1 - 4,2,Female,Guarantor,2,Car or other,70,No,Rent,3,Unemployed,1,0,1,1
+0 - 200,17,All paid,Car (new),5697,500 - 1000,< 1,3,Male,Co-applicant,2,Unknown/None,59,Stores,Rent,4,Skilled,2,0,0,1
+0 - 200,67,All paid,Car (used),6379,500 - 1000,< 1,3,Male,Co-applicant,1,Unknown/None,21,Stores,Own,2,Skilled,1,0,0,1
+> 200,50,Delay in paying,Repairs,6100,Unknown/None,> 7,1,Female,No,4,Unknown/None,22,Bank,Rent,2,Unskilled,1,0,0,0
+< 0,32,No credits/all paid,Others,7696,500 - 1000,< 1,4,Male,No,3,Unknown/None,22,Stores,Rent,4,Skilled,1,1,0,1
+> 200,39,Critical account,Car (used),12199,100 - 500,< 1,2,Female,Co-applicant,2,Real estate,28,Stores,Rent,4,Unemployed,2,1,1,1
+No,55,All paid,Business,8769,< 100,Unemployed,4,Male,Guarantor,4,Savings agreement/life insurance,58,No,Rent,2,Unskilled,2,1,0,0
+0 - 200,10,Critical account,Domestic appliances,564,Unknown/None,> 7,2,Female,Guarantor,2,Unknown/None,45,Bank,For free,3,Skilled,2,0,1,1
+< 0,32,All paid,Domestic appliances,11987,< 100,> 7,1,Male,Guarantor,1,Car or other,33,Bank,Own,3,Skilled,1,0,1,1
+0 - 200,14,Critical account,Repairs,1384,500 - 1000,< 1,3,Male,Co-applicant,1,Car or other,58,Stores,For free,3,Unskilled,1,1,0,1
+< 0,36,Existing paid,Repairs,11188,Unknown/None,< 1,1,Female,Co-applicant,4,Savings agreement/life insurance,71,No,Rent,1,Skilled,1,0,0,1
+> 200,9,All paid,Repairs,15838,> 1000,< 1,3,Male,Co-applicant,4,Real estate,47,No,Own,4,Skilled,1,0,1,0
+< 0,35,Critical account,Car (used),8597,100 - 500,1 - 4,4,Female,Co-applicant,4,Savings agreement/life insurance,21,No,Rent,2,Unskilled,2,1,0,1
+No,54,No credits/all paid,Business,5842,500 - 1000,4 - 7,4,Male,No,1,Unknown/None,19,No,Own,1,Skilled,1,1,0,1
+No,61,Existing paid,Furniture/equipment,17520,500 - 1000,1 - 4,1,Male,Co-applicant,1,Real estate,63,Stores,For free,3,Skilled,1,1,1,1
+< 0,29,Existing paid,Repairs,11247,100 - 500,> 7,3,Male,Guarantor,3,Real estate,20,No,Own,1,Skilled,1,0,1,0
+< 0,49,No credits/all paid,Vacation,971,100 - 500,Unemployed,1,Female,No,4,Unknown/None,67,Bank,Rent,2,Skilled,2,1,1,1
+< 0,32,Critical account,Others,9354,> 1000,4 - 7,3,Female,Guarantor,3,Car or other,38,Bank,Own,2,Highly skilled,1,1,1,1
+< 0,7,Delay in paying,Car (new),1120,500 - 1000,Unemployed,3,Female,Co-applicant,2,Unknown/None,23,Stores,Own,4,Unskilled,2,1,1,1
+No,16,No credits/all paid,Car (new),7001,500 - 1000,> 7,4,Female,No,3,Savings agreement/life insurance,60,No,For free,3,Highly skilled,2,0,0,1
+0 - 200,42,Critical account,Others,17131,< 100,> 7,4,Female,Co-applicant,2,Unknown/None,70,No,Rent,3,Highly skilled,1,0,1,1
+< 0,18,No credits/all paid,Car (used),2006,Unknown/None,Unemployed,3,Male,No,2,Car or other,35,No,Own,1,Unemployed,1,1,1,0
+< 0,32,No credits/all paid,Others,1367,Unknown/None,Unemployed,3,Male,Guarantor,3,Unknown/None,61,No,For free,3,Highly skilled,1,1,1,1
+No,32,All paid,Repairs,11851,< 100,Unemployed,3,Female,Co-applicant,4,Savings agreement/life insurance,22,Stores,Own,1,Highly skilled,1,0,0,0
+No,35,Critical account,Retraining,3078,Unknown/None,> 7,4,Male,Co-applicant,2,Savings agreement/life insurance,26,No,Rent,2,Unemployed,2,0,1,0
+> 200,5,Delay in paying,Radio/television,15246,100 - 500,< 1,4,Male,No,4,Car or other,37,Stores,Own,2,Skilled,2,1,1,0
+< 0,50,All paid,Furniture/equipment,14128,Unknown/None,Unemployed,2,Male,No,1,Savings agreement/life insurance,45,No,Own,2,Skilled,2,0,0,1
+> 200,25,No credits/all paid,Vacation,7242,Unknown/None,4 - 7,3,Male,Co-applicant,2,Savings agreement/life insurance,43,No,Own,2,Highly skilled,2,1,1,1
+No,30,No credits/all paid,Others,14028,< 100,> 7,2,Female,No,1,Unknown/None,35,Bank,Own,2,Unemployed,2,1,1,0
+No,70,No credits/all paid,Business,7021,> 1000,1 - 4,3,Male,Co-applicant,3,Real estate,36,Stores,Rent,1,Skilled,2,0,1,1
+0 - 200,59,Critical account,Retraining,16776,Unknown/None,1 - 4,4,Female,No,4,Savings agreement/life insurance,20,Bank,For free,2,Unemployed,2,1,0,1
+< 0,24,Critical account,Others,3685,Unknown/None,4 - 7,2,Female,Guarantor,3,Savings agreement/life insurance,26,Stores,For free,1,Unskilled,2,1,0,1
+> 200,50,All paid,Domestic appliances,6872,> 1000,< 1,2,Male,No,2,Car or other,53,No,Own,2,Unskilled,2,0,1,1
+No,62,Delay in paying,Retraining,13102,< 100,Unemployed,1,Female,Guarantor,1,Car or other,48,No,Rent,1,Unskilled,2,1,1,1
+No,9,All paid,Car (used),15056,> 1000,> 7,3,Male,No,2,Unknown/None,66,Stores,Rent,1,Unskilled,1,0,1,1
+> 200,22,Existing paid,Furniture/equipment,10873,< 100,Unemployed,4,Male,No,3,Unknown/None,34,Bank,Rent,1,Highly skilled,1,1,0,1
+0 - 200,60,No credits/all paid,Education,2098,100 - 500,> 7,1,Male,Co-applicant,4,Savings agreement/life insurance,72,Stores,Rent,3,Unskilled,1,1,0,1
+No,6,No credits/all paid,Education,2946,< 100,1 - 4,1,Female,No,4,Real estate,40,Stores,Rent,1,Unskilled,2,0,0,1
+< 0,4,No credits/all paid,Repairs,1967,100 - 500,Unemployed,3,Female,No,2,Real estate,51,No,Rent,1,Unemployed,1,0,0,1
+No,61,All paid,Repairs,9509,100 - 500,4 - 7,1,Female,Guarantor,2,Unknown/None,58,Bank,Own,2,Skilled,2,0,0,1
+< 0,41,All paid,Car (used),3036,< 100,< 1,3,Male,No,1,Car or other,58,Stores,For free,1,Unemployed,2,0,0,1
+> 200,18,No credits/all paid,Business,14404,500 - 1000,4 - 7,1,Male,Co-applicant,3,Savings agreement/life insurance,22,Bank,For free,1,Highly skilled,1,0,1,1
+< 0,37,All paid,Repairs,13659,< 100,< 1,3,Male,Guarantor,2,Savings agreement/life insurance,32,Bank,Own,4,Unskilled,2,0,0,1
+> 200,64,Critical account,Radio/television,4041,Unknown/None,Unemployed,4,Female,Co-applicant,1,Real estate,64,Stores,For free,3,Skilled,1,1,1,1
+< 0,38,Critical account,Furniture/equipment,4121,Unknown/None,Unemployed,3,Male,Co-applicant,2,Unknown/None,20,Bank,Rent,4,Skilled,2,0,0,1
+> 200,67,All paid,Others,2056,500 - 1000,< 1,3,Male,Co-applicant,4,Real estate,36,No,Rent,2,Unskilled,2,1,1,0
+< 0,28,No credits/all paid,Car (used),13554,100 - 500,1 - 4,2,Female,Co-applicant,1,Real estate,45,No,For free,3,Unskilled,1,0,0,1
+0 - 200,27,All paid,Car (new),15799,500 - 1000,> 7,4,Female,Guarantor,1,Unknown/None,20,No,Rent,3,Highly skilled,1,1,1,1
+< 0,15,All paid,Others,3553,Unknown/None,4 - 7,4,Female,No,2,Car or other,55,No,Rent,4,Highly skilled,1,1,1,1
+< 0,21,All paid,Others,16311,500 - 1000,4 - 7,4,Male,Co-applicant,3,Savings agreement/life insurance,21,Bank,For free,3,Unskilled,1,0,1,1
+0 - 200,18,Existing paid,Domestic appliances,15448,< 100,4 - 7,1,Male,Guarantor,4,Car or other,41,No,Own,4,Unskilled,1,1,0,1
+No,30,Critical account,Car (used),10905,500 - 1000,Unemployed,2,Male,Co-applicant,3,Unknown/None,48,Stores,For free,1,Unskilled,1,1,0,0
+No,63,Delay in paying,Car (used),9174,100 - 500,4 - 7,4,Female,No,1,Unknown/None,62,No,For free,4,Unskilled,2,1,0,0
+< 0,49,Delay in paying,Education,10190,< 100,> 7,1,Female,Guarantor,3,Savings agreement/life insurance,62,Stores,For free,3,Skilled,2,0,1,1
+0 - 200,20,Existing paid,Vacation,4174,> 1000,> 7,1,Female,Guarantor,1,Car or other,28,Stores,For free,3,Highly skilled,2,0,1,1
+< 0,56,All paid,Business,10033,Unknown/None,< 1,1,Female,No,3,Savings agreement/life insurance,54,No,Own,2,Unskilled,2,1,1,1
+> 200,11,Existing paid,Vacation,4735,Unknown/None,Unemployed,2,Male,Guarantor,2,Real estate,18,No,Own,2,Unskilled,1,0,0,1
+> 200,30,Existing paid,Radio/television,12879,500 - 1000,> 7,1,Male,No,3,Real estate,26,Bank,Rent,2,Skilled,2,0,0,1
+< 0,49,No credits/all paid,Car (new),13483,< 100,1 - 4,2,Male,Guarantor,1,Real estate,34,Stores,Rent,2,Unemployed,2,1,1,1
+No,53,Critical account,Others,13151,> 1000,Unemployed,3,Male,Guarantor,4,Car or other,71,No,For free,3,Unskilled,1,1,0,1
+No,6,Delay in paying,Education,441,< 100,Unemployed,1,Male,No,4,Real estate,18,Bank,Rent,2,Skilled,2,0,0,0
+< 0,67,All paid,Car (new),5167,Unknown/None,> 7,4,Male,No,4,Savings agreement/life insurance,20,No,Own,4,Skilled,1,0,0,1
+< 0,47,Delay in paying,Others,6081,< 100,1 - 4,1,Male,Guarantor,1,Car or other,64,No,Rent,1,Unemployed,1,0,0,1
+> 200,56,Delay in paying,Radio/television,10410,> 1000,< 1,3,Male,Guarantor,3,Savings agreement/life insurance,43,No,Rent,3,Highly skilled,1,1,1,1
+No,27,Critical account,Vacation,13932,500 - 1000,> 7,3,Female,No,4,Unknown/None,70,Stores,Rent,2,Highly skilled,2,0,0,1
+< 0,63,Delay in paying,Car (used),12641,100 - 500,1 - 4,1,Female,No,4,Car or other,48,No,For free,3,Highly skilled,1,0,0,1
+> 200,6,Delay in paying,Repairs,2124,< 100,Unemployed,3,Male,Guarantor,4,Savings agreement/life insurance,43,Bank,Rent,2,Unskilled,2,0,1,0
+No,23,Existing paid,Repairs,9312,100 - 500,1 - 4,2,Female,Guarantor,2,Savings agreement/life insurance,40,No,Own,3,Highly skilled,2,1,1,0
+0 - 200,49,Critical account,Retraining,5013,Unknown/None,Unemployed,2,Male,Guarantor,1,Car or other,47,No,Own,2,Unskilled,2,1,0,1
+> 200,18,No credits/all paid,Domestic appliances,10484,500 - 1000,> 7,1,Male,No,1,Unknown/None,27,Bank,Own,1,Unskilled,1,1,0,1
+No,28,All paid,Business,9471,500 - 1000,> 7,2,Female,Guarantor,1,Car or other,25,Bank,Own,2,Skilled,1,0,0,0
+No,20,Delay in paying,Radio/television,11660,< 100,4 - 7,2,Male,Co-applicant,1,Real estate,61,Stores,Rent,4,Highly skilled,1,0,0,0
+> 200,12,All paid,Domestic appliances,14769,500 - 1000,4 - 7,4,Male,No,1,Real estate,42,Stores,For free,3,Highly skilled,2,1,1,0
+0 - 200,41,No credits/all paid,Business,1301,< 100,4 - 7,1,Male,Guarantor,2,Unknown/None,39,Stores,Own,3,Highly skilled,2,0,1,1
+> 200,51,All paid,Others,12475,< 100,> 7,3,Male,No,3,Savings agreement/life insurance,32,Stores,Own,4,Unskilled,1,0,1,1
+No,63,No credits/all paid,Domestic appliances,10015,100 - 500,< 1,1,Male,Co-applicant,2,Savings agreement/life insurance,58,Bank,For free,4,Unskilled,2,0,0,1
+< 0,66,Existing paid,Vacation,11632,500 - 1000,> 7,2,Male,No,4,Savings agreement/life insurance,73,No,For free,1,Highly skilled,1,1,0,1
+< 0,5,Delay in paying,Business,12830,< 100,1 - 4,4,Male,Guarantor,2,Car or other,74,No,Own,3,Unskilled,1,0,1,1
+> 200,14,No credits/all paid,Vacation,12239,100 - 500,> 7,1,Female,Co-applicant,1,Car or other,27,No,Own,1,Unskilled,2,0,0,1
+No,67,All paid,Car (used),12189,> 1000,> 7,1,Female,Co-applicant,2,Unknown/None,37,Stores,For free,3,Unemployed,2,1,1,0
+< 0,24,Delay in paying,Education,557,100 - 500,Unemployed,2,Male,Guarantor,1,Real estate,58,Bank,Own,3,Unemployed,1,0,1,1
+No,21,Existing paid,Vacation,3609,100 - 500,Unemployed,2,Female,Guarantor,2,Savings agreement/life insurance,64,Bank,Own,1,Highly skilled,2,1,1,0
+> 200,67,Delay in paying,Others,3426,< 100,Unemployed,1,Male,Guarantor,1,Real estate,40,Bank,Rent,3,Highly skilled,1,0,1,1
+< 0,41,No credits/all paid,Repairs,1501,Unknown/None,> 7,2,Male,No,4,Car or other,70,No,For free,3,Unemployed,1,1,1,1
+No,35,Existing paid,Domestic appliances,5616,Unknown/None,< 1,2,Male,No,1,Car or other,70,Stores,Rent,1,Unskilled,2,1,1,1
+< 0,14,All paid,Others,6476,Unknown/None,1 - 4,2,Male,No,2,Car or other,18,Bank,Rent,2,Unskilled,1,0,1,1
+> 200,48,Existing paid,Retraining,14580,100 - 500,1 - 4,2,Female,Guarantor,4,Real estate,19,Stores,For free,1,Skilled,2,0,0,1
+No,36,Existing paid,Furniture/equipment,5141,< 100,< 1,2,Female,Guarantor,2,Unknown/None,36,Bank,Rent,3,Highly skilled,1,1,1,1
+< 0,44,Critical account,Business,5242,500 - 1000,< 1,4,Female,No,4,Unknown/None,31,Stores,Own,4,Highly skilled,2,0,1,1
+> 200,11,Existing paid,Radio/television,2211,100 - 500,1 - 4,2,Female,Co-applicant,3,Car or other,25,Bank,Rent,2,Highly skilled,2,1,0,1
+< 0,14,Existing paid,Retraining,12747,100 - 500,4 - 7,3,Male,No,3,Savings agreement/life insurance,55,Stores,For free,4,Skilled,1,0,1,1
+< 0,54,Delay in paying,Repairs,11098,< 100,Unemployed,1,Female,Co-applicant,3,Real estate,29,Bank,Own,2,Skilled,2,0,0,1
+0 - 200,44,All paid,Vacation,13505,> 1000,Unemployed,4,Male,Guarantor,2,Car or other,43,Bank,Own,4,Unskilled,2,0,1,1
+0 - 200,20,Delay in paying,Education,4817,100 - 500,1 - 4,4,Male,Guarantor,2,Real estate,44,Stores,Own,2,Unemployed,1,0,0,1
+> 200,49,Delay in paying,Others,16329,> 1000,< 1,2,Female,No,4,Real estate,46,Stores,Own,1,Unemployed,2,1,0,1
+0 - 200,35,No credits/all paid,Car (used),6763,> 1000,4 - 7,1,Male,No,4,Unknown/None,32,No,Rent,2,Unemployed,1,1,0,1
+> 200,57,Delay in paying,Furniture/equipment,15485,Unknown/None,1 - 4,3,Female,Guarantor,4,Car or other,63,Stores,Rent,2,Unskilled,2,0,1,1
+0 - 200,23,Critical account,Car (new),12005,< 100,Unemployed,2,Female,No,4,Unknown/None,70,Bank,Own,2,Unemployed,1,0,0,1
+< 0,36,Critical account,Retraining,11401,> 1000,> 7,1,Female,Guarantor,1,Car or other,18,Bank,For free,3,Skilled,1,0,1,1
+> 200,43,No credits/all paid,Education,16817,< 100,< 1,2,Female,Guarantor,3,Real estate,60,Stores,Own,4,Skilled,1,0,1,1
+> 200,35,All paid,Car (new),3608,Unknown/None,> 7,2,Female,Co-applicant,1,Unknown/None,45,No,Rent,1,Highly skilled,1,0,1,1
+< 0,5,All paid,Furniture/equipment,9840,< 100,1 - 4,2,Male,No,1,Real estate,74,Stores,Own,4,Unemployed,2,1,1,1
+> 200,36,Delay in paying,Radio/television,11238,100 - 500,Unemployed,2,Female,Guarantor,1,Car or other,20,Bank,Rent,4,Skilled,1,1,1,1
+> 200,33,Delay in paying,Radio/television,7928,> 1000,4 - 7,2,Female,No,1,Savings agreement/life insurance,68,Bank,Own,1,Highly skilled,2,0,1,1
+0 - 200,36,Delay in paying,Domestic appliances,5948,< 100,> 7,2,Male,Co-applicant,3,Unknown/None,35,No,For free,3,Unemployed,1,1,1,1
+> 200,29,All paid,Furniture/equipment,1523,500 - 1000,4 - 7,2,Female,Co-applicant,1,Unknown/None,69,Stores,Own,2,Unemployed,2,1,0,1
+No,25,Existing paid,Furniture/equipment,11491,< 100,Unemployed,3,Female,No,4,Real estate,51,Bank,For free,3,Skilled,1,0,1,1
+< 0,69,Critical account,Car (new),17730,> 1000,> 7,4,Male,No,2,Real estate,49,Bank,For free,3,Highly skilled,2,1,1,1
+0 - 200,41,Existing paid,Education,9747,Unknown/None,4 - 7,3,Male,Guarantor,4,Savings agreement/life insurance,46,Bank,Own,2,Highly skilled,2,1,0,1
+0 - 200,49,Existing paid,Others,9357,Unknown/None,4 - 7,2,Female,Co-applicant,2,Unknown/None,42,Stores,For free,4,Skilled,1,1,1,1
+No,18,All paid,Business,11523,> 1000,> 7,2,Male,Co-applicant,4,Car or other,43,Stores,For free,2,Skilled,1,1,0,1
+< 0,47,Existing paid,Car (new),8252,100 - 500,Unemployed,3,Female,Co-applicant,4,Car or other,56,No,Rent,1,Skilled,1,0,0,1
+< 0,52,No credits/all paid,Car (used),4497,100 - 500,4 - 7,3,Male,No,2,Unknown/None,25,Bank,Rent,2,Unemployed,2,1,1,1
+0 - 200,64,Delay in paying,Radio/television,9470,Unknown/None,1 - 4,4,Female,Guarantor,3,Unknown/None,36,Bank,For free,4,Skilled,2,1,1,1
+> 200,70,No credits/all paid,Radio/television,10953,Unknown/None,> 7,3,Female,No,1,Unknown/None,71,No,Own,3,Skilled,2,1,0,1
+0 - 200,9,Critical account,Domestic appliances,15722,> 1000,< 1,4,Female,No,4,Savings agreement/life insurance,64,Bank,For free,3,Unskilled,2,0,1,0
+< 0,12,Delay in paying,Others,16904,100 - 500,< 1,2,Male,No,3,Car or other,59,No,Own,2,Skilled,1,1,0,1
+No,9,Existing paid,Car (used),17820,Unknown/None,Unemployed,1,Female,Guarantor,1,Car or other,39,No,Rent,1,Skilled,1,1,0,1
+0 - 200,35,Critical account,Radio/television,12642,100 - 500,1 - 4,1,Male,No,3,Real estate,46,Bank,Own,4,Unemployed,1,1,1,1
+< 0,44,Delay in paying,Car (new),12206,Unknown/None,4 - 7,1,Female,Co-applicant,3,Real estate,50,Stores,For free,3,Highly skilled,1,0,0,1
+0 - 200,11,Existing paid,Car (used),15891,< 100,< 1,1,Female,Co-applicant,1,Unknown/None,55,Stores,For free,2,Unemployed,2,0,1,1
+> 200,53,No credits/all paid,Car (new),14248,500 - 1000,Unemployed,2,Female,Co-applicant,4,Real estate,62,Stores,For free,1,Unskilled,2,0,1,1
+0 - 200,65,Delay in paying,Business,6555,< 100,1 - 4,1,Female,Guarantor,3,Savings agreement/life insurance,63,Stores,For free,1,Skilled,1,0,0,1
+0 - 200,65,Existing paid,Business,12971,Unknown/None,1 - 4,3,Female,No,4,Car or other,52,Bank,For free,3,Skilled,2,0,0,1
+< 0,10,No credits/all paid,Radio/television,7245,500 - 1000,Unemployed,3,Male,Guarantor,4,Car or other,60,No,Own,3,Skilled,1,1,1,0
+< 0,7,Critical account,Radio/television,12677,500 - 1000,Unemployed,1,Male,No,4,Real estate,20,No,For free,4,Skilled,2,0,1,1
+< 0,9,Critical account,Education,14032,Unknown/None,4 - 7,3,Male,Co-applicant,1,Unknown/None,36,Bank,Rent,1,Skilled,2,1,1,1
+0 - 200,61,Critical account,Business,2480,Unknown/None,Unemployed,4,Female,No,2,Real estate,27,Stores,For free,4,Skilled,2,0,0,0
+> 200,25,Critical account,Others,6761,100 - 500,4 - 7,2,Female,No,4,Unknown/None,44,No,Own,1,Unskilled,2,0,1,0
+No,29,All paid,Others,16762,Unknown/None,4 - 7,1,Male,No,2,Savings agreement/life insurance,32,Bank,For free,1,Skilled,2,0,0,0
+No,6,Delay in paying,Retraining,9711,> 1000,> 7,1,Female,Guarantor,2,Car or other,28,Bank,For free,2,Skilled,2,1,0,1
+< 0,44,Delay in paying,Retraining,5015,Unknown/None,1 - 4,2,Female,No,3,Savings agreement/life insurance,64,Stores,Own,3,Skilled,1,1,0,1
+< 0,63,All paid,Domestic appliances,13522,> 1000,1 - 4,3,Female,No,4,Car or other,43,Bank,For free,1,Unskilled,2,1,1,1
+0 - 200,17,Existing paid,Business,5802,Unknown/None,1 - 4,2,Male,No,4,Savings agreement/life insurance,41,No,Own,4,Skilled,1,0,0,1
+No,15,Existing paid,Car (new),877,100 - 500,> 7,2,Male,Guarantor,4,Real estate,30,No,For free,3,Unskilled,1,0,1,1
+< 0,15,Critical account,Car (new),12239,> 1000,4 - 7,3,Male,Guarantor,2,Savings agreement/life insurance,49,Bank,Rent,4,Unemployed,1,0,0,0
+> 200,16,No credits/all paid,Repairs,14030,< 100,4 - 7,2,Male,Guarantor,1,Savings agreement/life insurance,54,No,For free,3,Skilled,1,0,1,1
+> 200,28,Existing paid,Car (used),6839,> 1000,Unemployed,3,Male,No,2,Real estate,21,Bank,Own,3,Highly skilled,1,0,1,1
+< 0,48,No credits/all paid,Vacation,2294,100 - 500,> 7,3,Female,Co-applicant,4,Car or other,30,No,Rent,1,Unskilled,1,0,0,1
+< 0,22,Delay in paying,Retraining,13421,> 1000,Unemployed,2,Female,Co-applicant,4,Car or other,26,Stores,Own,2,Unemployed,2,1,1,1
+No,58,No credits/all paid,Radio/television,6134,Unknown/None,> 7,4,Female,Co-applicant,4,Real estate,74,No,For free,1,Unskilled,2,1,0,1
+No,48,Delay in paying,Domestic appliances,8435,Unknown/None,Unemployed,3,Female,No,2,Savings agreement/life insurance,66,Stores,Rent,3,Unskilled,2,0,0,0
+0 - 200,11,All paid,Others,499,100 - 500,< 1,2,Male,Co-applicant,4,Savings agreement/life insurance,51,Stores,Own,1,Unemployed,1,1,0,1
+No,56,All paid,Vacation,17608,500 - 1000,1 - 4,3,Male,Co-applicant,3,Savings agreement/life insurance,73,Bank,Rent,1,Skilled,1,1,0,1
+> 200,58,Critical account,Furniture/equipment,9425,Unknown/None,1 - 4,4,Female,Co-applicant,4,Unknown/None,54,Stores,Rent,3,Skilled,1,1,0,1
+> 200,35,Existing paid,Domestic appliances,16510,< 100,4 - 7,4,Male,No,1,Car or other,65,No,Own,3,Unskilled,2,0,0,0
+< 0,54,Critical account,Furniture/equipment,2922,100 - 500,< 1,1,Female,Co-applicant,3,Savings agreement/life insurance,24,No,Rent,1,Unemployed,2,0,0,1
+No,47,Delay in paying,Business,7529,> 1000,1 - 4,3,Female,Co-applicant,4,Car or other,18,Stores,Own,1,Skilled,2,0,1,0
+0 - 200,21,Critical account,Furniture/equipment,8912,> 1000,4 - 7,3,Female,No,3,Savings agreement/life insurance,29,Bank,Rent,1,Unskilled,1,0,0,1
+> 200,25,No credits/all paid,Furniture/equipment,2237,< 100,< 1,2,Female,Guarantor,4,Real estate,38,Stores,Rent,4,Highly skilled,1,1,0,0
+> 200,40,Delay in paying,Education,16724,Unknown/None,1 - 4,3,Male,Co-applicant,1,Real estate,28,No,Rent,1,Unemployed,1,0,1,1
+0 - 200,59,All paid,Education,13198,100 - 500,Unemployed,1,Female,Guarantor,4,Car or other,61,No,For free,4,Highly skilled,2,0,1,1
+0 - 200,62,Existing paid,Education,13276,< 100,> 7,4,Male,Co-applicant,3,Car or other,68,Stores,For free,2,Highly skilled,1,0,0,1
+> 200,6,Delay in paying,Business,3023,Unknown/None,< 1,4,Female,No,1,Real estate,61,Stores,Own,4,Unskilled,1,1,0,1
+> 200,31,Delay in paying,Vacation,13409,100 - 500,4 - 7,1,Female,Guarantor,2,Unknown/None,61,Stores,Rent,1,Unemployed,1,1,0,1
+0 - 200,38,No credits/all paid,Domestic appliances,10128,> 1000,< 1,3,Female,Guarantor,1,Real estate,31,No,Own,2,Skilled,1,1,1,1
+> 200,64,Existing paid,Domestic appliances,10428,100 - 500,4 - 7,3,Female,Guarantor,1,Savings agreement/life insurance,51,No,For free,4,Skilled,2,1,0,1
+< 0,57,All paid,Radio/television,10627,500 - 1000,< 1,1,Male,Guarantor,1,Unknown/None,51,No,For free,4,Unskilled,2,1,1,1
+< 0,66,Delay in paying,Education,7597,100 - 500,4 - 7,2,Female,Co-applicant,3,Real estate,42,Bank,For free,3,Skilled,1,0,0,1
+0 - 200,10,Delay in paying,Business,1258,500 - 1000,1 - 4,4,Male,Co-applicant,1,Unknown/None,21,No,For free,2,Skilled,1,1,0,1
+No,52,No credits/all paid,Radio/television,4033,100 - 500,Unemployed,1,Female,Guarantor,4,Unknown/None,69,No,Own,3,Highly skilled,2,1,1,1
+0 - 200,34,Critical account,Car (used),4548,500 - 1000,1 - 4,1,Female,Co-applicant,1,Unknown/None,72,Bank,Rent,2,Highly skilled,2,0,0,0
+0 - 200,61,All paid,Radio/television,4918,> 1000,Unemployed,3,Female,Guarantor,1,Car or other,43,Bank,Own,4,Unemployed,1,0,0,1
+No,64,Existing paid,Vacation,2302,Unknown/None,1 - 4,4,Male,Guarantor,4,Real estate,33,Bank,Rent,3,Highly skilled,2,0,0,1
+No,27,Delay in paying,Retraining,1966,500 - 1000,1 - 4,3,Female,No,4,Car or other,27,Bank,For free,1,Skilled,2,1,1,1
+No,23,Delay in paying,Furniture/equipment,560,500 - 1000,< 1,1,Female,Guarantor,2,Car or other,62,Bank,Rent,4,Unemployed,1,0,0,0
+< 0,40,All paid,Education,14641,> 1000,> 7,2,Female,Co-applicant,1,Savings agreement/life insurance,19,Bank,For free,2,Unemployed,2,1,0,0
+> 200,7,Critical account,Retraining,1510,500 - 1000,4 - 7,4,Female,Guarantor,3,Savings agreement/life insurance,52,Stores,Own,2,Unskilled,2,0,1,0
+< 0,23,Delay in paying,Others,13407,< 100,4 - 7,1,Female,No,1,Unknown/None,36,Stores,Rent,3,Highly skilled,2,1,1,1
+> 200,63,All paid,Radio/television,11710,> 1000,4 - 7,1,Male,Co-applicant,1,Unknown/None,23,Stores,Own,3,Unemployed,2,1,0,1
+< 0,27,No credits/all paid,Business,17218,< 100,Unemployed,2,Male,No,4,Savings agreement/life insurance,36,Stores,For free,2,Skilled,1,1,0,1
+> 200,53,Critical account,Furniture/equipment,14261,> 1000,4 - 7,1,Female,No,2,Savings agreement/life insurance,70,No,Own,4,Unemployed,2,1,1,1
+< 0,52,Existing paid,Domestic appliances,3116,500 - 1000,4 - 7,1,Female,Guarantor,1,Real estate,69,Bank,For free,3,Unemployed,2,0,0,1
+No,54,Delay in paying,Car (new),14615,< 100,< 1,4,Male,No,3,Unknown/None,68,No,For free,1,Unskilled,1,0,0,1
+0 - 200,39,All paid,Furniture/equipment,6148,500 - 1000,1 - 4,4,Female,No,1,Unknown/None,25,Bank,For free,2,Skilled,2,1,1,1
+< 0,69,No credits/all paid,Vacation,6501,> 1000,4 - 7,4,Male,Co-applicant,3,Savings agreement/life insurance,31,Bank,Own,1,Skilled,1,0,0,1
+> 200,37,Existing paid,Others,5189,500 - 1000,> 7,3,Female,No,4,Real estate,27,No,Own,2,Highly skilled,1,1,0,1
+No,39,All paid,Vacation,4256,< 100,4 - 7,2,Female,Guarantor,2,Savings agreement/life insurance,20,Stores,Rent,1,Skilled,2,0,1,1
+< 0,9,All paid,Radio/television,1875,< 100,Unemployed,4,Male,Guarantor,1,Savings agreement/life insurance,55,No,Rent,4,Unemployed,2,0,0,0
+< 0,42,Existing paid,Car (used),11206,500 - 1000,Unemployed,3,Female,Guarantor,2,Car or other,46,No,Own,2,Skilled,2,1,0,1
+No,45,No credits/all paid,Vacation,17524,100 - 500,Unemployed,3,Male,No,1,Unknown/None,32,Bank,Own,4,Skilled,2,1,0,0
+< 0,61,No credits/all paid,Vacation,6328,> 1000,4 - 7,2,Male,Co-applicant,3,Real estate,40,Bank,Own,3,Unemployed,2,0,1,1
+0 - 200,15,Critical account,Business,9173,> 1000,< 1,2,Male,Guarantor,2,Car or other,40,Bank,Own,2,Unskilled,1,1,0,1
+< 0,6,Delay in paying,Radio/television,4211,500 - 1000,> 7,1,Female,No,1,Unknown/None,35,Stores,For free,4,Highly skilled,2,0,1,1
+0 - 200,21,Existing paid,Furniture/equipment,9056,100 - 500,4 - 7,3,Male,Guarantor,4,Savings agreement/life insurance,63,No,For free,1,Highly skilled,1,0,1,1
+0 - 200,43,Existing paid,Car (used),13808,< 100,< 1,4,Male,Guarantor,3,Real estate,36,No,For free,4,Unskilled,2,0,0,1
+No,24,Existing paid,Retraining,6936,Unknown/None,< 1,2,Female,Co-applicant,2,Unknown/None,45,Stores,Own,2,Unemployed,1,1,1,0
+< 0,18,No credits/all paid,Car (new),1837,Unknown/None,4 - 7,3,Female,Guarantor,1,Savings agreement/life insurance,43,No,For free,4,Highly skilled,2,1,0,0
+No,29,Delay in paying,Education,10053,500 - 1000,4 - 7,4,Female,Co-applicant,2,Car or other,27,No,For free,1,Unskilled,2,0,0,0
+< 0,11,Critical account,Domestic appliances,17530,100 - 500,< 1,3,Female,No,1,Real estate,64,Bank,Rent,1,Unskilled,2,1,0,1
+< 0,45,All paid,Vacation,10600,100 - 500,< 1,2,Female,Guarantor,3,Unknown/None,21,Stores,Rent,1,Unskilled,2,1,1,0
+> 200,47,All paid,Radio/television,11704,> 1000,< 1,1,Female,No,4,Car or other,72,Bank,For free,3,Highly skilled,2,0,0,1
+< 0,17,Existing paid,Education,16099,< 100,4 - 7,3,Male,No,3,Savings agreement/life insurance,19,Stores,For free,2,Highly skilled,1,1,0,0
+No,5,Delay in paying,Domestic appliances,7087,100 - 500,< 1,4,Female,No,2,Savings agreement/life insurance,20,Bank,For free,1,Highly skilled,2,1,0,1
+0 - 200,40,No credits/all paid,Domestic appliances,1699,Unknown/None,Unemployed,2,Male,Guarantor,2,Unknown/None,24,No,Own,3,Highly skilled,2,0,1,1
+< 0,41,Delay in paying,Retraining,5704,< 100,4 - 7,1,Female,Co-applicant,1,Savings agreement/life insurance,72,Stores,Rent,1,Skilled,2,1,1,1
+> 200,44,Delay in paying,Retraining,9674,< 100,Unemployed,4,Male,Guarantor,3,Real estate,33,Stores,Rent,4,Unskilled,1,0,0,1
+No,65,No credits/all paid,Retraining,4367,500 - 1000,1 - 4,4,Male,No,1,Unknown/None,48,Bank,Rent,2,Skilled,2,1,0,1
+< 0,63,Existing paid,Repairs,9119,100 - 500,4 - 7,4,Female,Co-applicant,3,Car or other,27,Stores,For free,4,Unskilled,1,1,0,1
+No,17,Delay in paying,Repairs,11100,500 - 1000,1 - 4,3,Female,No,2,Unknown/None,36,No,Own,3,Highly skilled,2,0,0,0
+> 200,5,All paid,Domestic appliances,14593,100 - 500,< 1,2,Male,Co-applicant,1,Unknown/None,45,No,Rent,4,Highly skilled,1,0,1,0
+> 200,20,No credits/all paid,Retraining,7095,> 1000,< 1,4,Female,Guarantor,1,Car or other,34,No,Rent,4,Skilled,2,1,1,1
+No,31,Critical account,Business,4874,500 - 1000,> 7,3,Female,Co-applicant,3,Savings agreement/life insurance,45,Bank,Own,1,Unemployed,2,0,1,1
+< 0,69,Existing paid,Vacation,9098,500 - 1000,< 1,2,Male,Guarantor,4,Car or other,36,Stores,For free,4,Highly skilled,1,0,1,1
+0 - 200,38,No credits/all paid,Education,16799,Unknown/None,1 - 4,2,Male,No,3,Real estate,54,Bank,For free,1,Unemployed,2,1,1,1
+> 200,8,Critical account,Education,13386,500 - 1000,< 1,3,Male,Co-applicant,4,Savings agreement/life insurance,40,No,Rent,1,Unskilled,1,0,1,1
+< 0,68,Critical account,Repairs,839,100 - 500,4 - 7,3,Female,No,3,Unknown/None,37,Stores,Rent,2,Skilled,2,1,1,1
+< 0,43,Delay in paying,Domestic appliances,6759,Unknown/None,< 1,4,Female,Co-applicant,2,Savings agreement/life insurance,30,No,Own,3,Unemployed,2,1,0,1
+0 - 200,59,Delay in paying,Radio/television,7943,500 - 1000,> 7,2,Female,Guarantor,1,Savings agreement/life insurance,30,Stores,Rent,3,Unemployed,1,0,0,1
+> 200,39,Delay in paying,Furniture/equipment,9704,500 - 1000,< 1,1,Female,Co-applicant,3,Real estate,60,Stores,Own,3,Highly skilled,2,1,0,1
+> 200,48,No credits/all paid,Furniture/equipment,16705,> 1000,1 - 4,3,Male,Co-applicant,2,Savings agreement/life insurance,28,Bank,Rent,1,Unemployed,1,0,0,1
+< 0,26,No credits/all paid,Repairs,11958,500 - 1000,1 - 4,2,Female,Guarantor,3,Savings agreement/life insurance,65,Stores,Rent,3,Unemployed,1,1,0,1
+< 0,50,Existing paid,Radio/television,13192,< 100,< 1,2,Male,Guarantor,1,Savings agreement/life insurance,32,No,Rent,1,Unskilled,2,0,0,1
+0 - 200,34,Delay in paying,Repairs,16902,Unknown/None,1 - 4,4,Female,Guarantor,3,Unknown/None,34,Stores,For free,2,Skilled,2,0,1,1
+0 - 200,14,Critical account,Furniture/equipment,10218,< 100,1 - 4,1,Female,Co-applicant,4,Savings agreement/life insurance,71,No,Own,3,Highly skilled,2,1,0,1
+> 200,13,All paid,Radio/television,2712,Unknown/None,> 7,4,Male,No,1,Car or other,67,Bank,Own,1,Highly skilled,1,0,1,0
+No,70,Existing paid,Retraining,9710,> 1000,4 - 7,1,Female,Co-applicant,4,Savings agreement/life insurance,45,No,For free,3,Unemployed,1,0,0,1
+> 200,17,No credits/all paid,Domestic appliances,1265,500 - 1000,> 7,1,Female,Co-applicant,2,Real estate,36,Stores,For free,3,Unskilled,2,0,1,1
+< 0,13,Existing paid,Education,9525,500 - 1000,Unemployed,3,Male,No,2,Savings agreement/life insurance,21,No,For free,2,Unemployed,1,1,1,1
+> 200,4,Existing paid,Business,13519,500 - 1000,> 7,2,Female,Guarantor,3,Savings agreement/life insurance,39,No,Own,4,Unemployed,1,1,0,0
+No,8,Existing paid,Car (used),656,Unknown/None,< 1,2,Male,Co-applicant,4,Unknown/None,39,Stores,Rent,3,Highly skilled,1,0,0,1
+0 - 200,23,Existing paid,Domestic appliances,7634,500 - 1000,4 - 7,2,Male,No,4,Car or other,72,No,For free,2,Unemployed,1,0,0,0
+No,11,All paid,Retraining,11518,< 100,< 1,1,Male,Guarantor,1,Savings agreement/life insurance,54,Stores,For free,3,Unemployed,2,1,0,0
+No,46,Delay in paying,Others,17619,500 - 1000,Unemployed,2,Male,Guarantor,4,Car or other,56,Bank,For free,3,Unskilled,2,1,0,1
+No,4,Critical account,Furniture/equipment,12045,> 1000,4 - 7,3,Female,Co-applicant,4,Real estate,51,No,Rent,3,Highly skilled,2,1,1,0
+0 - 200,60,Existing paid,Retraining,4735,< 100,1 - 4,1,Female,Guarantor,1,Unknown/None,50,Bank,Rent,3,Skilled,1,0,0,1
+No,67,Existing paid,Others,9151,500 - 1000,> 7,1,Female,Guarantor,1,Car or other,61,No,For free,4,Unskilled,1,1,1,1
+No,31,Existing paid,Repairs,2868,500 - 1000,< 1,1,Male,No,4,Unknown/None,59,No,Rent,4,Unskilled,1,0,1,1
+No,40,Delay in paying,Radio/television,9853,100 - 500,Unemployed,1,Female,No,3,Savings agreement/life insurance,57,Bank,For free,3,Unskilled,1,1,1,1
+< 0,50,No credits/all paid,Education,7178,Unknown/None,1 - 4,3,Female,Guarantor,1,Real estate,50,No,Rent,3,Highly skilled,2,0,0,1
+No,40,No credits/all paid,Vacation,5618,< 100,> 7,2,Female,No,1,Unknown/None,29,No,Own,2,Unemployed,1,1,0,1
+0 - 200,52,All paid,Repairs,4871,100 - 500,1 - 4,3,Female,Guarantor,4,Savings agreement/life insurance,19,Bank,Own,2,Skilled,1,0,0,1
+No,47,No credits/all paid,Domestic appliances,14969,> 1000,> 7,2,Male,Co-applicant,4,Car or other,45,No,Rent,1,Highly skilled,2,1,0,0
+No,59,Existing paid,Repairs,11376,Unknown/None,4 - 7,3,Male,No,1,Real estate,27,Stores,Own,4,Unemployed,2,1,0,0
+0 - 200,31,Existing paid,Domestic appliances,7816,< 100,1 - 4,4,Female,Guarantor,4,Real estate,39,No,Own,3,Unskilled,2,0,0,1
+No,9,Existing paid,Vacation,12556,500 - 1000,1 - 4,4,Male,Guarantor,1,Car or other,34,No,Own,4,Highly skilled,1,1,1,0
+0 - 200,64,All paid,Car (new),15336,< 100,1 - 4,4,Female,No,3,Car or other,43,No,For free,2,Unemployed,1,1,0,1
+No,23,Existing paid,Others,17637,500 - 1000,4 - 7,4,Female,No,3,Real estate,20,Bank,Rent,4,Skilled,1,1,1,1
+0 - 200,5,No credits/all paid,Education,10140,Unknown/None,Unemployed,1,Female,Co-applicant,1,Unknown/None,24,Stores,Rent,4,Skilled,1,1,1,1
+No,40,Delay in paying,Business,8345,500 - 1000,> 7,1,Male,Guarantor,1,Real estate,61,Stores,Rent,3,Unemployed,1,0,0,1
+No,23,Delay in paying,Business,12969,> 1000,1 - 4,3,Female,Co-applicant,2,Car or other,25,No,Own,3,Highly skilled,1,0,0,0
+< 0,29,Critical account,Others,10533,500 - 1000,4 - 7,3,Male,Co-applicant,2,Unknown/None,37,Bank,For free,2,Unskilled,2,1,0,1
+< 0,32,No credits/all paid,Car (used),14481,> 1000,Unemployed,4,Male,Co-applicant,4,Savings agreement/life insurance,29,Bank,Rent,3,Unemployed,1,0,0,0
+No,4,Existing paid,Retraining,14948,Unknown/None,> 7,2,Female,No,4,Real estate,52,Stores,Own,2,Unskilled,2,0,0,0
+No,38,Delay in paying,Car (new),17707,Unknown/None,4 - 7,4,Male,Co-applicant,1,Car or other,34,Bank,For free,2,Skilled,2,0,0,1
+> 200,62,No credits/all paid,Others,5434,< 100,> 7,3,Male,No,1,Savings agreement/life insurance,45,No,For free,1,Unemployed,2,0,1,1

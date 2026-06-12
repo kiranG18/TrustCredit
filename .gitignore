@@ -50,8 +50,8 @@ ENV/
 .idea/
 
 # Data directory
-data/
-!data/prepared/
+/data/*
+!/data/prepared/
 
 # Ignore outputs but keep directories
 results/*
